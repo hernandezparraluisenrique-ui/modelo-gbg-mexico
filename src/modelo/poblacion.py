@@ -12,14 +12,10 @@ def modelo_gbg(t, estado, parametros):
     Ms = machos estériles
     """
 
-    # =========================================
-    # 1. VARIABLES DEL ESTADO
-    # =========================================
-
     Mw, Fw, Ms = estado
 
     # =========================================
-    # 2. PARÁMETROS
+    # PARÁMETROS
     # =========================================
 
     b = parametros["b"]
@@ -30,10 +26,16 @@ def modelo_gbg(t, estado, parametros):
 
     c = parametros["c"]
 
-    R = parametros["R"]
+    # =========================================
+    # LIBERACIÓN DE MACHOS ESTÉRILES
+    # =========================================
+
+    funcion_liberacion = parametros["R"]
+
+    R = funcion_liberacion(t)
 
     # =========================================
-    # 3. COMPETENCIA ENTRE MACHOS
+    # PROPORCIÓN DE APAREAMIENTO
     # =========================================
 
     denominador = Mw + c * Ms
@@ -42,22 +44,15 @@ def modelo_gbg(t, estado, parametros):
 
         pw = Mw / denominador
 
-        ps = (c * Ms) / denominador
-
     else:
 
         pw = 0.0
-        ps = 0.0
 
     # =========================================
-    # 4. DESCENDENCIA VIABLE
+    # REPRODUCCIÓN
     # =========================================
 
     Bv = b * Fw * pw
-
-    # =========================================
-    # 5. NUEVOS MACHOS Y HEMBRAS
-    # =========================================
 
     proporcion_machos = 0.5
     proporcion_hembras = 0.5
@@ -66,18 +61,23 @@ def modelo_gbg(t, estado, parametros):
     nuevas_hembras = proporcion_hembras * Bv
 
     # =========================================
-    # 6. ECUACIONES DIFERENCIALES
+    # ECUACIONES DIFERENCIALES
     # =========================================
 
-    dMw_dt = nuevos_machos - muM * Mw
+    dMw_dt = (
+        nuevos_machos
+        - muM * Mw
+    )
 
-    dFw_dt = nuevas_hembras - muF * Fw
+    dFw_dt = (
+        nuevas_hembras
+        - muF * Fw
+    )
 
-    dMs_dt = R - mus * Ms
-
-    # =========================================
-    # 7. RETORNAR TASAS DE CAMBIO
-    # =========================================
+    dMs_dt = (
+        R
+        - mus * Ms
+    )
 
     return [
         dMw_dt,

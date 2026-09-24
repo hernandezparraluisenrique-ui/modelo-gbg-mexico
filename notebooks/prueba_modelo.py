@@ -2,6 +2,7 @@ import sys
 from pathlib import Path
 
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 # =========================================
@@ -18,29 +19,15 @@ from src.simulacion.simulador import ejecutar_simulacion
 
 
 # =========================================
-# PARÁMETROS PROVISIONALES
+# PARÁMETROS DEL MODELO
 # =========================================
-
-
-#parametros = {
- #   "rM": 0.5,
-  #  "rF": 0.5,
-   # "b": 10,
-    #"a": 1.0,
-    #"muM": 0.1,
-    #"muF": 0.1,
-   # "mus": 0.1,
-   # "c": 0.8,
-   # "R": 0
-#}
 
 parametros = {
     "b": 0.25,
     "muM": 0.1,
     "muF": 0.1,
     "mus": 0.1,
-    "c": 0.8,
-    "R": 0
+    "c": 0.8
 }
 
 
@@ -48,23 +35,19 @@ parametros = {
 # CONDICIONES INICIALES
 # =========================================
 
-#estado_inicial = [
-   # 100,   # Mw - machos silvestres
-   # 100,   # Fv - hembras vírgenes
-  #  0,     # Fm - hembras apareadas
- #   0      # Ms - machos estériles
-#]
-
 estado_inicial = [
-    100,   # Mw - machos silvestres
-    100,   # Fw - hembras silvestres
-    0      # Ms - machos estériles
+    100,   # Mw
+    100,   # Fw
+    0      # Ms
 ]
 
 
 # =========================================
 # TIEMPO DE SIMULACIÓN
 # =========================================
+
+# 100 semanas
+# 1 punto cada 0.1 semanas
 
 tiempo = np.linspace(
     0,
@@ -74,34 +57,191 @@ tiempo = np.linspace(
 
 
 # =========================================
-# EJECUTAR SIMULACIÓN
+# FUNCIONES DE LIBERACIÓN
 # =========================================
 
-resultado = ejecutar_simulacion(
-    parametros,
+def liberacion_sin_tie(t):
+    """
+    Sin liberación de machos estériles.
+    """
+    return 0
+
+
+def liberacion_programada(t):
+    """
+    Programa de liberación de machos estériles
+    por semana.
+
+    Semanas 0-9:   0 machos/semana
+    Semanas 10-19: 20 machos/semana
+    Semanas 20-29: 40 machos/semana
+    Semana 30+:    60 machos/semana
+    """
+
+    if t < 10:
+        return 0
+
+    elif t < 20:
+        return 20
+
+    elif t < 30:
+        return 40
+
+    else:
+        return 60
+
+
+# =========================================
+# ESCENARIO 1: SIN TIE
+# =========================================
+
+parametros_sin_tie = parametros.copy()
+
+parametros_sin_tie["R"] = liberacion_sin_tie
+
+
+resultado_sin_tie = ejecutar_simulacion(
+    parametros_sin_tie,
     estado_inicial,
     tiempo
 )
 
 
 # =========================================
-# MOSTRAR RESULTADOS
+# ESCENARIO 2: CON TIE
 # =========================================
 
-#print("Simulación terminada")
+parametros_con_tie = parametros.copy()
 
-#print("\nEstado final:")
+parametros_con_tie["R"] = liberacion_programada
 
-#print(f"Machos silvestres: {resultado.y[0, -1]}")
-#print(f"Hembras vírgenes: {resultado.y[1, -1]}")
-#print(f"Hembras apareadas: {resultado.y[2, -1]}")
-#print(f"Machos estériles: {resultado.y[3, -1]}")
 
-print("Simulación terminada")
+resultado_con_tie = ejecutar_simulacion(
+    parametros_con_tie,
+    estado_inicial,
+    tiempo
+)
 
-print("\nEstado final:")
 
-print(f"Machos silvestres: {resultado.y[0, -1]}")
-print(f"Hembras silvestres: {resultado.y[1, -1]}")
-print(f"Machos estériles: {resultado.y[2, -1]}")
+# =========================================
+# POBLACIÓN SILVESTRE TOTAL
+# =========================================
 
+poblacion_sin_tie = (
+    resultado_sin_tie.y[0]
+    + resultado_sin_tie.y[1]
+)
+
+
+poblacion_con_tie = (
+    resultado_con_tie.y[0]
+    + resultado_con_tie.y[1]
+)
+
+
+# =========================================
+# LIBERACIÓN PROGRAMADA
+# =========================================
+
+liberaciones = [
+    liberacion_programada(t)
+    for t in tiempo
+]
+
+
+# =========================================
+# RESULTADOS FINALES
+# =========================================
+
+print("=========================================")
+print("ESCENARIO SIN TIE")
+print("=========================================")
+
+print(
+    f"Machos silvestres: "
+    f"{resultado_sin_tie.y[0, -1]}"
+)
+
+print(
+    f"Hembras silvestres: "
+    f"{resultado_sin_tie.y[1, -1]}"
+)
+
+print(
+    f"Población silvestre total: "
+    f"{poblacion_sin_tie[-1]}"
+)
+
+
+print("\n=========================================")
+print("ESCENARIO CON TIE")
+print("=========================================")
+
+print(
+    f"Machos silvestres: "
+    f"{resultado_con_tie.y[0, -1]}"
+)
+
+print(
+    f"Hembras silvestres: "
+    f"{resultado_con_tie.y[1, -1]}"
+)
+
+print(
+    f"Machos estériles: "
+    f"{resultado_con_tie.y[2, -1]}"
+)
+
+print(
+    f"Población silvestre total: "
+    f"{poblacion_con_tie[-1]}"
+)
+
+
+# =========================================
+# GRÁFICA COMPARATIVA
+# =========================================
+
+plt.figure(figsize=(10, 6))
+
+
+# Población silvestre sin TIE
+plt.plot(
+    tiempo,
+    poblacion_sin_tie,
+    label="Sin TIE"
+)
+
+
+# Población silvestre con TIE
+plt.plot(
+    tiempo,
+    poblacion_con_tie,
+    label="Con TIE"
+)
+
+
+# Liberación programada
+plt.plot(
+    tiempo,
+    liberaciones,
+    label="Liberación de estériles"
+)
+
+
+plt.xlabel("Tiempo (semanas)")
+
+plt.ylabel("Población / liberación")
+
+plt.title(
+    "Dinámica de la población del GBG y liberación programada"
+)
+
+
+plt.legend()
+
+plt.grid()
+
+plt.tight_layout()
+
+plt.show()
