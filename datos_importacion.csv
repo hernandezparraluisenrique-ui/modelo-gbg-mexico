@@ -1,0 +1,1473 @@
+﻿nombre_estado,hospedador,periodo,valor_original,valor_numerico,estado_registro
+Aguascalientes,Bovino,2024-11-01,-,,guion
+Aguascalientes,Bovino,2024-12-01,-,,guion
+Aguascalientes,Bovino,2025-01-01,-,,guion
+Aguascalientes,Bovino,2025-02-01,-,,guion
+Aguascalientes,Bovino,2025-03-01,-,,guion
+Aguascalientes,Bovino,2025-04-01,-,,guion
+Aguascalientes,Bovino,2025-05-01,-,,guion
+Aguascalientes,Bovino,2025-06-01,-,,guion
+Aguascalientes,Bovino,2025-07-01,-,,guion
+Aguascalientes,Bovino,2025-08-01,-,,guion
+Aguascalientes,Bovino,2025-09-01,-,,guion
+Aguascalientes,Bovino,2025-10-01,-,,guion
+Aguascalientes,Bovino,2025-11-01,-,,guion
+Aguascalientes,Bovino,2025-12-01,-,,guion
+Aguascalientes,Bovino,2026-01-01,-,,guion
+Aguascalientes,Bovino,2026-02-01,-,,guion
+Aguascalientes,Bovino,2026-03-01,-,,guion
+Aguascalientes,Bovino,2026-04-01,-,,guion
+Aguascalientes,Bovino,2026-05-01,3,3,numerico
+Aguascalientes,Bovino,2026-06-01,2,2,numerico
+Aguascalientes,Bovino,2026-07-01,-,,guion
+Aguascalientes,Bovino,2026-08-01,-,,guion
+Aguascalientes,Bovino,2026-09-01,-,,guion
+Baja California,Bovino,2024-11-01,-,,guion
+Baja California,Bovino,2024-12-01,-,,guion
+Baja California,Bovino,2025-01-01,-,,guion
+Baja California,Bovino,2025-02-01,-,,guion
+Baja California,Bovino,2025-03-01,-,,guion
+Baja California,Bovino,2025-04-01,-,,guion
+Baja California,Bovino,2025-05-01,-,,guion
+Baja California,Bovino,2025-06-01,-,,guion
+Baja California,Bovino,2025-07-01,-,,guion
+Baja California,Bovino,2025-08-01,-,,guion
+Baja California,Bovino,2025-09-01,-,,guion
+Baja California,Bovino,2025-10-01,-,,guion
+Baja California,Bovino,2025-11-01,-,,guion
+Baja California,Bovino,2025-12-01,-,,guion
+Baja California,Bovino,2026-01-01,-,,guion
+Baja California,Bovino,2026-02-01,-,,guion
+Baja California,Bovino,2026-03-01,-,,guion
+Baja California,Bovino,2026-04-01,-,,guion
+Baja California,Bovino,2026-05-01,-,,guion
+Baja California,Bovino,2026-06-01,-,,guion
+Baja California,Bovino,2026-07-01,-,,guion
+Baja California,Bovino,2026-08-01,-,,guion
+Baja California,Bovino,2026-09-01,-,,guion
+Baja California Sur,Bovino,2024-11-01,-,,guion
+Baja California Sur,Bovino,2024-12-01,-,,guion
+Baja California Sur,Bovino,2025-01-01,-,,guion
+Baja California Sur,Bovino,2025-02-01,-,,guion
+Baja California Sur,Bovino,2025-03-01,-,,guion
+Baja California Sur,Bovino,2025-04-01,-,,guion
+Baja California Sur,Bovino,2025-05-01,-,,guion
+Baja California Sur,Bovino,2025-06-01,-,,guion
+Baja California Sur,Bovino,2025-07-01,-,,guion
+Baja California Sur,Bovino,2025-08-01,-,,guion
+Baja California Sur,Bovino,2025-09-01,-,,guion
+Baja California Sur,Bovino,2025-10-01,-,,guion
+Baja California Sur,Bovino,2025-11-01,-,,guion
+Baja California Sur,Bovino,2025-12-01,-,,guion
+Baja California Sur,Bovino,2026-01-01,-,,guion
+Baja California Sur,Bovino,2026-02-01,-,,guion
+Baja California Sur,Bovino,2026-03-01,-,,guion
+Baja California Sur,Bovino,2026-04-01,-,,guion
+Baja California Sur,Bovino,2026-05-01,-,,guion
+Baja California Sur,Bovino,2026-06-01,-,,guion
+Baja California Sur,Bovino,2026-07-01,-,,guion
+Baja California Sur,Bovino,2026-08-01,-,,guion
+Baja California Sur,Bovino,2026-09-01,-,,guion
+Campeche,Bovino,2024-11-01,-,,guion
+Campeche,Bovino,2024-12-01,1,1,numerico
+Campeche,Bovino,2025-01-01,,,vacio
+Campeche,Bovino,2025-02-01,6,6,numerico
+Campeche,Bovino,2025-03-01,57,57,numerico
+Campeche,Bovino,2025-04-01,68,68,numerico
+Campeche,Bovino,2025-05-01,53,53,numerico
+Campeche,Bovino,2025-06-01,42,42,numerico
+Campeche,Bovino,2025-07-01,21,21,numerico
+Campeche,Bovino,2025-08-01,-,,guion
+Campeche,Bovino,2025-09-01,-,,guion
+Campeche,Bovino,2025-10-01,-,,guion
+Campeche,Bovino,2025-11-01,-,,guion
+Campeche,Bovino,2025-12-01,-,,guion
+Campeche,Bovino,2026-01-01,-,,guion
+Campeche,Bovino,2026-02-01,-,,guion
+Campeche,Bovino,2026-03-01,-,,guion
+Campeche,Bovino,2026-04-01,-,,guion
+Campeche,Bovino,2026-05-01,-,,guion
+Campeche,Bovino,2026-06-01,-,,guion
+Campeche,Bovino,2026-07-01,-,,guion
+Campeche,Bovino,2026-08-01,-,,guion
+Campeche,Bovino,2026-09-01,-,,guion
+Chiapas,Bovino,2024-11-01,2,2,numerico
+Chiapas,Bovino,2024-12-01,-,,guion
+Chiapas,Bovino,2025-01-01,25,25,numerico
+Chiapas,Bovino,2025-02-01,38,38,numerico
+Chiapas,Bovino,2025-03-01,264,264,numerico
+Chiapas,Bovino,2025-04-01,335,335,numerico
+Chiapas,Bovino,2025-05-01,450,450,numerico
+Chiapas,Bovino,2025-06-01,-,,guion
+Chiapas,Bovino,2025-07-01,-,,guion
+Chiapas,Bovino,2025-08-01,-,,guion
+Chiapas,Bovino,2025-09-01,-,,guion
+Chiapas,Bovino,2025-10-01,-,,guion
+Chiapas,Bovino,2025-11-01,-,,guion
+Chiapas,Bovino,2025-12-01,-,,guion
+Chiapas,Bovino,2026-01-01,-,,guion
+Chiapas,Bovino,2026-02-01,-,,guion
+Chiapas,Bovino,2026-03-01,-,,guion
+Chiapas,Bovino,2026-04-01,-,,guion
+Chiapas,Bovino,2026-05-01,-,,guion
+Chiapas,Bovino,2026-06-01,-,,guion
+Chiapas,Bovino,2026-07-01,-,,guion
+Chiapas,Bovino,2026-08-01,-,,guion
+Chiapas,Bovino,2026-09-01,-,,guion
+Chihuahua,Bovino,2024-11-01,-,,guion
+Chihuahua,Bovino,2024-12-01,-,,guion
+Chihuahua,Bovino,2025-01-01,-,,guion
+Chihuahua,Bovino,2025-02-01,-,,guion
+Chihuahua,Bovino,2025-03-01,-,,guion
+Chihuahua,Bovino,2025-04-01,-,,guion
+Chihuahua,Bovino,2025-05-01,-,,guion
+Chihuahua,Bovino,2025-06-01,-,,guion
+Chihuahua,Bovino,2025-07-01,-,,guion
+Chihuahua,Bovino,2025-08-01,-,,guion
+Chihuahua,Bovino,2025-09-01,-,,guion
+Chihuahua,Bovino,2025-10-01,-,,guion
+Chihuahua,Bovino,2025-11-01,-,,guion
+Chihuahua,Bovino,2025-12-01,-,,guion
+Chihuahua,Bovino,2026-01-01,-,,guion
+Chihuahua,Bovino,2026-02-01,-,,guion
+Chihuahua,Bovino,2026-03-01,-,,guion
+Chihuahua,Bovino,2026-04-01,-,,guion
+Chihuahua,Bovino,2026-05-01,-,,guion
+Chihuahua,Bovino,2026-06-01,-,,guion
+Chihuahua,Bovino,2026-07-01,9,9,numerico
+Chihuahua,Bovino,2026-08-01,-,,guion
+Chihuahua,Bovino,2026-09-01,-,,guion
+Ciudad de México,Bovino,2024-11-01,-,,guion
+Ciudad de México,Bovino,2024-12-01,-,,guion
+Ciudad de México,Bovino,2025-01-01,-,,guion
+Ciudad de México,Bovino,2025-02-01,-,,guion
+Ciudad de México,Bovino,2025-03-01,-,,guion
+Ciudad de México,Bovino,2025-04-01,-,,guion
+Ciudad de México,Bovino,2025-05-01,-,,guion
+Ciudad de México,Bovino,2025-06-01,-,,guion
+Ciudad de México,Bovino,2025-07-01,-,,guion
+Ciudad de México,Bovino,2025-08-01,-,,guion
+Ciudad de México,Bovino,2025-09-01,-,,guion
+Ciudad de México,Bovino,2025-10-01,-,,guion
+Ciudad de México,Bovino,2025-11-01,-,,guion
+Ciudad de México,Bovino,2025-12-01,-,,guion
+Ciudad de México,Bovino,2026-01-01,-,,guion
+Ciudad de México,Bovino,2026-02-01,-,,guion
+Ciudad de México,Bovino,2026-03-01,-,,guion
+Ciudad de México,Bovino,2026-04-01,-,,guion
+Ciudad de México,Bovino,2026-05-01,-,,guion
+Ciudad de México,Bovino,2026-06-01,1,1,numerico
+Ciudad de México,Bovino,2026-07-01,,,vacio
+Ciudad de México,Bovino,2026-08-01,-,,guion
+Ciudad de México,Bovino,2026-09-01,-,,guion
+Coahuila,Bovino,2024-11-01,-,,guion
+Coahuila,Bovino,2024-12-01,-,,guion
+Coahuila,Bovino,2025-01-01,-,,guion
+Coahuila,Bovino,2025-02-01,-,,guion
+Coahuila,Bovino,2025-03-01,-,,guion
+Coahuila,Bovino,2025-04-01,-,,guion
+Coahuila,Bovino,2025-05-01,-,,guion
+Coahuila,Bovino,2025-06-01,-,,guion
+Coahuila,Bovino,2025-07-01,-,,guion
+Coahuila,Bovino,2025-08-01,-,,guion
+Coahuila,Bovino,2025-09-01,-,,guion
+Coahuila,Bovino,2025-10-01,-,,guion
+Coahuila,Bovino,2025-11-01,-,,guion
+Coahuila,Bovino,2025-12-01,-,,guion
+Coahuila,Bovino,2026-01-01,-,,guion
+Coahuila,Bovino,2026-02-01,-,,guion
+Coahuila,Bovino,2026-03-01,-,,guion
+Coahuila,Bovino,2026-04-01,1,1,numerico
+Coahuila,Bovino,2026-05-01,5,5,numerico
+Coahuila,Bovino,2026-06-01,-,,guion
+Coahuila,Bovino,2026-07-01,-,,guion
+Coahuila,Bovino,2026-08-01,-,,guion
+Coahuila,Bovino,2026-09-01,-,,guion
+Colima,Bovino,2024-11-01,-,,guion
+Colima,Bovino,2024-12-01,-,,guion
+Colima,Bovino,2025-01-01,-,,guion
+Colima,Bovino,2025-02-01,-,,guion
+Colima,Bovino,2025-03-01,-,,guion
+Colima,Bovino,2025-04-01,-,,guion
+Colima,Bovino,2025-05-01,-,,guion
+Colima,Bovino,2025-06-01,-,,guion
+Colima,Bovino,2025-07-01,-,,guion
+Colima,Bovino,2025-08-01,-,,guion
+Colima,Bovino,2025-09-01,-,,guion
+Colima,Bovino,2025-10-01,-,,guion
+Colima,Bovino,2025-11-01,-,,guion
+Colima,Bovino,2025-12-01,-,,guion
+Colima,Bovino,2026-01-01,1,1,numerico
+Colima,Bovino,2026-02-01,14,14,numerico
+Colima,Bovino,2026-03-01,-,,guion
+Colima,Bovino,2026-04-01,-,,guion
+Colima,Bovino,2026-05-01,-,,guion
+Colima,Bovino,2026-06-01,-,,guion
+Colima,Bovino,2026-07-01,-,,guion
+Colima,Bovino,2026-08-01,-,,guion
+Colima,Bovino,2026-09-01,-,,guion
+Durango,Bovino,2024-11-01,-,,guion
+Durango,Bovino,2024-12-01,-,,guion
+Durango,Bovino,2025-01-01,-,,guion
+Durango,Bovino,2025-02-01,-,,guion
+Durango,Bovino,2025-03-01,-,,guion
+Durango,Bovino,2025-04-01,-,,guion
+Durango,Bovino,2025-05-01,-,,guion
+Durango,Bovino,2025-06-01,-,,guion
+Durango,Bovino,2025-07-01,-,,guion
+Durango,Bovino,2025-08-01,-,,guion
+Durango,Bovino,2025-09-01,-,,guion
+Durango,Bovino,2025-10-01,-,,guion
+Durango,Bovino,2025-11-01,-,,guion
+Durango,Bovino,2025-12-01,-,,guion
+Durango,Bovino,2026-01-01,-,,guion
+Durango,Bovino,2026-02-01,-,,guion
+Durango,Bovino,2026-03-01,-,,guion
+Durango,Bovino,2026-04-01,-,,guion
+Durango,Bovino,2026-05-01,-,,guion
+Durango,Bovino,2026-06-01,6,6,numerico
+Durango,Bovino,2026-07-01,,,vacio
+Durango,Bovino,2026-08-01,-,,guion
+Durango,Bovino,2026-09-01,-,,guion
+Estado de México,Bovino,2024-11-01,-,,guion
+Estado de México,Bovino,2024-12-01,-,,guion
+Estado de México,Bovino,2025-01-01,-,,guion
+Estado de México,Bovino,2025-02-01,-,,guion
+Estado de México,Bovino,2025-03-01,-,,guion
+Estado de México,Bovino,2025-04-01,-,,guion
+Estado de México,Bovino,2025-05-01,-,,guion
+Estado de México,Bovino,2025-06-01,-,,guion
+Estado de México,Bovino,2025-07-01,-,,guion
+Estado de México,Bovino,2025-08-01,-,,guion
+Estado de México,Bovino,2025-09-01,-,,guion
+Estado de México,Bovino,2025-10-01,-,,guion
+Estado de México,Bovino,2025-11-01,-,,guion
+Estado de México,Bovino,2025-12-01,-,,guion
+Estado de México,Bovino,2026-01-01,-,,guion
+Estado de México,Bovino,2026-02-01,-,,guion
+Estado de México,Bovino,2026-03-01,-,,guion
+Estado de México,Bovino,2026-04-01,-,,guion
+Estado de México,Bovino,2026-05-01,-,,guion
+Estado de México,Bovino,2026-06-01,-,,guion
+Estado de México,Bovino,2026-07-01,-,,guion
+Estado de México,Bovino,2026-08-01,-,,guion
+Estado de México,Bovino,2026-09-01,-,,guion
+Guanajuato,Bovino,2024-11-01,-,,guion
+Guanajuato,Bovino,2024-12-01,-,,guion
+Guanajuato,Bovino,2025-01-01,-,,guion
+Guanajuato,Bovino,2025-02-01,-,,guion
+Guanajuato,Bovino,2025-03-01,-,,guion
+Guanajuato,Bovino,2025-04-01,-,,guion
+Guanajuato,Bovino,2025-05-01,-,,guion
+Guanajuato,Bovino,2025-06-01,-,,guion
+Guanajuato,Bovino,2025-07-01,-,,guion
+Guanajuato,Bovino,2025-08-01,-,,guion
+Guanajuato,Bovino,2025-09-01,-,,guion
+Guanajuato,Bovino,2025-10-01,-,,guion
+Guanajuato,Bovino,2025-11-01,-,,guion
+Guanajuato,Bovino,2025-12-01,-,,guion
+Guanajuato,Bovino,2026-01-01,-,,guion
+Guanajuato,Bovino,2026-02-01,-,,guion
+Guanajuato,Bovino,2026-03-01,6,6,numerico
+Guanajuato,Bovino,2026-04-01,-,,guion
+Guanajuato,Bovino,2026-05-01,-,,guion
+Guanajuato,Bovino,2026-06-01,-,,guion
+Guanajuato,Bovino,2026-07-01,-,,guion
+Guanajuato,Bovino,2026-08-01,-,,guion
+Guanajuato,Bovino,2026-09-01,-,,guion
+Guerrero,Bovino,2024-11-01,-,,guion
+Guerrero,Bovino,2024-12-01,-,,guion
+Guerrero,Bovino,2025-01-01,-,,guion
+Guerrero,Bovino,2025-02-01,-,,guion
+Guerrero,Bovino,2025-03-01,-,,guion
+Guerrero,Bovino,2025-04-01,-,,guion
+Guerrero,Bovino,2025-05-01,-,,guion
+Guerrero,Bovino,2025-06-01,-,,guion
+Guerrero,Bovino,2025-07-01,-,,guion
+Guerrero,Bovino,2025-08-01,-,,guion
+Guerrero,Bovino,2025-09-01,-,,guion
+Guerrero,Bovino,2025-10-01,-,,guion
+Guerrero,Bovino,2025-11-01,1,1,numerico
+Guerrero,Bovino,2025-12-01,-,,guion
+Guerrero,Bovino,2026-01-01,-,,guion
+Guerrero,Bovino,2026-02-01,-,,guion
+Guerrero,Bovino,2026-03-01,-,,guion
+Guerrero,Bovino,2026-04-01,-,,guion
+Guerrero,Bovino,2026-05-01,-,,guion
+Guerrero,Bovino,2026-06-01,-,,guion
+Guerrero,Bovino,2026-07-01,-,,guion
+Guerrero,Bovino,2026-08-01,-,,guion
+Guerrero,Bovino,2026-09-01,-,,guion
+Hidalgo,Bovino,2024-11-01,-,,guion
+Hidalgo,Bovino,2024-12-01,-,,guion
+Hidalgo,Bovino,2025-01-01,-,,guion
+Hidalgo,Bovino,2025-02-01,-,,guion
+Hidalgo,Bovino,2025-03-01,-,,guion
+Hidalgo,Bovino,2025-04-01,-,,guion
+Hidalgo,Bovino,2025-05-01,-,,guion
+Hidalgo,Bovino,2025-06-01,-,,guion
+Hidalgo,Bovino,2025-07-01,-,,guion
+Hidalgo,Bovino,2025-08-01,-,,guion
+Hidalgo,Bovino,2025-09-01,-,,guion
+Hidalgo,Bovino,2025-10-01,-,,guion
+Hidalgo,Bovino,2025-11-01,,,vacio
+Hidalgo,Bovino,2025-12-01,-,,guion
+Hidalgo,Bovino,2026-01-01,-,,guion
+Hidalgo,Bovino,2026-02-01,31,31,numerico
+Hidalgo,Bovino,2026-03-01,-,,guion
+Hidalgo,Bovino,2026-04-01,-,,guion
+Hidalgo,Bovino,2026-05-01,-,,guion
+Hidalgo,Bovino,2026-06-01,-,,guion
+Hidalgo,Bovino,2026-07-01,-,,guion
+Hidalgo,Bovino,2026-08-01,-,,guion
+Hidalgo,Bovino,2026-09-01,-,,guion
+Jalisco,Bovino,2024-11-01,-,,guion
+Jalisco,Bovino,2024-12-01,-,,guion
+Jalisco,Bovino,2025-01-01,-,,guion
+Jalisco,Bovino,2025-02-01,-,,guion
+Jalisco,Bovino,2025-03-01,-,,guion
+Jalisco,Bovino,2025-04-01,-,,guion
+Jalisco,Bovino,2025-05-01,-,,guion
+Jalisco,Bovino,2025-06-01,-,,guion
+Jalisco,Bovino,2025-07-01,-,,guion
+Jalisco,Bovino,2025-08-01,-,,guion
+Jalisco,Bovino,2025-09-01,-,,guion
+Jalisco,Bovino,2025-10-01,-,,guion
+Jalisco,Bovino,2025-11-01,1,1,numerico
+Jalisco,Bovino,2025-12-01,-,,guion
+Jalisco,Bovino,2026-01-01,1,1,numerico
+Jalisco,Bovino,2026-02-01,8,8,numerico
+Jalisco,Bovino,2026-03-01,-,,guion
+Jalisco,Bovino,2026-04-01,-,,guion
+Jalisco,Bovino,2026-05-01,-,,guion
+Jalisco,Bovino,2026-06-01,-,,guion
+Jalisco,Bovino,2026-07-01,-,,guion
+Jalisco,Bovino,2026-08-01,-,,guion
+Jalisco,Bovino,2026-09-01,-,,guion
+Michoacán,Bovino,2024-11-01,-,,guion
+Michoacán,Bovino,2024-12-01,-,,guion
+Michoacán,Bovino,2025-01-01,-,,guion
+Michoacán,Bovino,2025-02-01,-,,guion
+Michoacán,Bovino,2025-03-01,-,,guion
+Michoacán,Bovino,2025-04-01,-,,guion
+Michoacán,Bovino,2025-05-01,-,,guion
+Michoacán,Bovino,2025-06-01,-,,guion
+Michoacán,Bovino,2025-07-01,-,,guion
+Michoacán,Bovino,2025-08-01,-,,guion
+Michoacán,Bovino,2025-09-01,-,,guion
+Michoacán,Bovino,2025-10-01,-,,guion
+Michoacán,Bovino,2025-11-01,-,,guion
+Michoacán,Bovino,2025-12-01,1,1,numerico
+Michoacán,Bovino,2026-01-01,-,,guion
+Michoacán,Bovino,2026-02-01,-,,guion
+Michoacán,Bovino,2026-03-01,-,,guion
+Michoacán,Bovino,2026-04-01,-,,guion
+Michoacán,Bovino,2026-05-01,-,,guion
+Michoacán,Bovino,2026-06-01,-,,guion
+Michoacán,Bovino,2026-07-01,-,,guion
+Michoacán,Bovino,2026-08-01,-,,guion
+Michoacán,Bovino,2026-09-01,-,,guion
+Morelos,Bovino,2024-11-01,-,,guion
+Morelos,Bovino,2024-12-01,-,,guion
+Morelos,Bovino,2025-01-01,-,,guion
+Morelos,Bovino,2025-02-01,-,,guion
+Morelos,Bovino,2025-03-01,-,,guion
+Morelos,Bovino,2025-04-01,-,,guion
+Morelos,Bovino,2025-05-01,-,,guion
+Morelos,Bovino,2025-06-01,-,,guion
+Morelos,Bovino,2025-07-01,-,,guion
+Morelos,Bovino,2025-08-01,-,,guion
+Morelos,Bovino,2025-09-01,-,,guion
+Morelos,Bovino,2025-10-01,1,1,numerico
+Morelos,Bovino,2025-11-01,-,,guion
+Morelos,Bovino,2025-12-01,1,1,numerico
+Morelos,Bovino,2026-01-01,-,,guion
+Morelos,Bovino,2026-02-01,2,2,numerico
+Morelos,Bovino,2026-03-01,-,,guion
+Morelos,Bovino,2026-04-01,-,,guion
+Morelos,Bovino,2026-05-01,-,,guion
+Morelos,Bovino,2026-06-01,-,,guion
+Morelos,Bovino,2026-07-01,-,,guion
+Morelos,Bovino,2026-08-01,-,,guion
+Morelos,Bovino,2026-09-01,-,,guion
+Nayarit,Bovino,2024-11-01,-,,guion
+Nayarit,Bovino,2024-12-01,-,,guion
+Nayarit,Bovino,2025-01-01,-,,guion
+Nayarit,Bovino,2025-02-01,-,,guion
+Nayarit,Bovino,2025-03-01,-,,guion
+Nayarit,Bovino,2025-04-01,-,,guion
+Nayarit,Bovino,2025-05-01,-,,guion
+Nayarit,Bovino,2025-06-01,-,,guion
+Nayarit,Bovino,2025-07-01,-,,guion
+Nayarit,Bovino,2025-08-01,-,,guion
+Nayarit,Bovino,2025-09-01,-,,guion
+Nayarit,Bovino,2025-10-01,-,,guion
+Nayarit,Bovino,2025-11-01,-,,guion
+Nayarit,Bovino,2025-12-01,-,,guion
+Nayarit,Bovino,2026-01-01,-,,guion
+Nayarit,Bovino,2026-02-01,-,,guion
+Nayarit,Bovino,2026-03-01,-,,guion
+Nayarit,Bovino,2026-04-01,5,5,numerico
+Nayarit,Bovino,2026-05-01,1,1,numerico
+Nayarit,Bovino,2026-06-01,-,,guion
+Nayarit,Bovino,2026-07-01,-,,guion
+Nayarit,Bovino,2026-08-01,-,,guion
+Nayarit,Bovino,2026-09-01,-,,guion
+Nuevo León,Bovino,2024-11-01,-,,guion
+Nuevo León,Bovino,2024-12-01,-,,guion
+Nuevo León,Bovino,2025-01-01,-,,guion
+Nuevo León,Bovino,2025-02-01,-,,guion
+Nuevo León,Bovino,2025-03-01,-,,guion
+Nuevo León,Bovino,2025-04-01,-,,guion
+Nuevo León,Bovino,2025-05-01,-,,guion
+Nuevo León,Bovino,2025-06-01,-,,guion
+Nuevo León,Bovino,2025-07-01,-,,guion
+Nuevo León,Bovino,2025-08-01,-,,guion
+Nuevo León,Bovino,2025-09-01,1,1,numerico
+Nuevo León,Bovino,2025-10-01,1,1,numerico
+Nuevo León,Bovino,2025-11-01,1,1,numerico
+Nuevo León,Bovino,2025-12-01,-,,guion
+Nuevo León,Bovino,2026-01-01,-,,guion
+Nuevo León,Bovino,2026-02-01,-,,guion
+Nuevo León,Bovino,2026-03-01,-,,guion
+Nuevo León,Bovino,2026-04-01,4,4,numerico
+Nuevo León,Bovino,2026-05-01,-,,guion
+Nuevo León,Bovino,2026-06-01,-,,guion
+Nuevo León,Bovino,2026-07-01,-,,guion
+Nuevo León,Bovino,2026-08-01,-,,guion
+Nuevo León,Bovino,2026-09-01,-,,guion
+Oaxaca,Bovino,2024-11-01,-,,guion
+Oaxaca,Bovino,2024-12-01,-,,guion
+Oaxaca,Bovino,2025-01-01,-,,guion
+Oaxaca,Bovino,2025-02-01,-,,guion
+Oaxaca,Bovino,2025-03-01,-,,guion
+Oaxaca,Bovino,2025-04-01,-,,guion
+Oaxaca,Bovino,2025-05-01,16,16,numerico
+Oaxaca,Bovino,2025-06-01,64,64,numerico
+Oaxaca,Bovino,2025-07-01,26,26,numerico
+Oaxaca,Bovino,2025-08-01,-,,guion
+Oaxaca,Bovino,2025-09-01,-,,guion
+Oaxaca,Bovino,2025-10-01,-,,guion
+Oaxaca,Bovino,2025-11-01,-,,guion
+Oaxaca,Bovino,2025-12-01,-,,guion
+Oaxaca,Bovino,2026-01-01,-,,guion
+Oaxaca,Bovino,2026-02-01,-,,guion
+Oaxaca,Bovino,2026-03-01,-,,guion
+Oaxaca,Bovino,2026-04-01,-,,guion
+Oaxaca,Bovino,2026-05-01,-,,guion
+Oaxaca,Bovino,2026-06-01,-,,guion
+Oaxaca,Bovino,2026-07-01,-,,guion
+Oaxaca,Bovino,2026-08-01,-,,guion
+Oaxaca,Bovino,2026-09-01,-,,guion
+Puebla,Bovino,2024-11-01,-,,guion
+Puebla,Bovino,2024-12-01,-,,guion
+Puebla,Bovino,2025-01-01,-,,guion
+Puebla,Bovino,2025-02-01,-,,guion
+Puebla,Bovino,2025-03-01,-,,guion
+Puebla,Bovino,2025-04-01,-,,guion
+Puebla,Bovino,2025-05-01,-,,guion
+Puebla,Bovino,2025-06-01,-,,guion
+Puebla,Bovino,2025-07-01,-,,guion
+Puebla,Bovino,2025-08-01,-,,guion
+Puebla,Bovino,2025-09-01,1,1,numerico
+Puebla,Bovino,2025-10-01,-,,guion
+Puebla,Bovino,2025-11-01,-,,guion
+Puebla,Bovino,2025-12-01,-,,guion
+Puebla,Bovino,2026-01-01,-,,guion
+Puebla,Bovino,2026-02-01,-,,guion
+Puebla,Bovino,2026-03-01,-,,guion
+Puebla,Bovino,2026-04-01,-,,guion
+Puebla,Bovino,2026-05-01,-,,guion
+Puebla,Bovino,2026-06-01,-,,guion
+Puebla,Bovino,2026-07-01,-,,guion
+Puebla,Bovino,2026-08-01,-,,guion
+Puebla,Bovino,2026-09-01,-,,guion
+Querétaro,Bovino,2024-11-01,-,,guion
+Querétaro,Bovino,2024-12-01,-,,guion
+Querétaro,Bovino,2025-01-01,-,,guion
+Querétaro,Bovino,2025-02-01,-,,guion
+Querétaro,Bovino,2025-03-01,-,,guion
+Querétaro,Bovino,2025-04-01,-,,guion
+Querétaro,Bovino,2025-05-01,-,,guion
+Querétaro,Bovino,2025-06-01,-,,guion
+Querétaro,Bovino,2025-07-01,-,,guion
+Querétaro,Bovino,2025-08-01,-,,guion
+Querétaro,Bovino,2025-09-01,-,,guion
+Querétaro,Bovino,2025-10-01,2,2,numerico
+Querétaro,Bovino,2025-11-01,1,1,numerico
+Querétaro,Bovino,2025-12-01,-,,guion
+Querétaro,Bovino,2026-01-01,-,,guion
+Querétaro,Bovino,2026-02-01,-,,guion
+Querétaro,Bovino,2026-03-01,34,34,numerico
+Querétaro,Bovino,2026-04-01,-,,guion
+Querétaro,Bovino,2026-05-01,-,,guion
+Querétaro,Bovino,2026-06-01,-,,guion
+Querétaro,Bovino,2026-07-01,-,,guion
+Querétaro,Bovino,2026-08-01,-,,guion
+Querétaro,Bovino,2026-09-01,-,,guion
+Quintana Roo,Bovino,2024-11-01,-,,guion
+Quintana Roo,Bovino,2024-12-01,-,,guion
+Quintana Roo,Bovino,2025-01-01,-,,guion
+Quintana Roo,Bovino,2025-02-01,1,1,numerico
+Quintana Roo,Bovino,2025-03-01,7,7,numerico
+Quintana Roo,Bovino,2025-04-01,12,12,numerico
+Quintana Roo,Bovino,2025-05-01,13,13,numerico
+Quintana Roo,Bovino,2025-06-01,17,17,numerico
+Quintana Roo,Bovino,2025-07-01,15,15,numerico
+Quintana Roo,Bovino,2025-08-01,-,,guion
+Quintana Roo,Bovino,2025-09-01,-,,guion
+Quintana Roo,Bovino,2025-10-01,-,,guion
+Quintana Roo,Bovino,2025-11-01,-,,guion
+Quintana Roo,Bovino,2025-12-01,-,,guion
+Quintana Roo,Bovino,2026-01-01,-,,guion
+Quintana Roo,Bovino,2026-02-01,-,,guion
+Quintana Roo,Bovino,2026-03-01,-,,guion
+Quintana Roo,Bovino,2026-04-01,-,,guion
+Quintana Roo,Bovino,2026-05-01,-,,guion
+Quintana Roo,Bovino,2026-06-01,-,,guion
+Quintana Roo,Bovino,2026-07-01,-,,guion
+Quintana Roo,Bovino,2026-08-01,-,,guion
+Quintana Roo,Bovino,2026-09-01,-,,guion
+San Luis Potosí,Bovino,2024-11-01,-,,guion
+San Luis Potosí,Bovino,2024-12-01,-,,guion
+San Luis Potosí,Bovino,2025-01-01,-,,guion
+San Luis Potosí,Bovino,2025-02-01,-,,guion
+San Luis Potosí,Bovino,2025-03-01,-,,guion
+San Luis Potosí,Bovino,2025-04-01,-,,guion
+San Luis Potosí,Bovino,2025-05-01,-,,guion
+San Luis Potosí,Bovino,2025-06-01,-,,guion
+San Luis Potosí,Bovino,2025-07-01,-,,guion
+San Luis Potosí,Bovino,2025-08-01,-,,guion
+San Luis Potosí,Bovino,2025-09-01,-,,guion
+San Luis Potosí,Bovino,2025-10-01,-,,guion
+San Luis Potosí,Bovino,2025-11-01,-,,guion
+San Luis Potosí,Bovino,2025-12-01,-,,guion
+San Luis Potosí,Bovino,2026-01-01,-,,guion
+San Luis Potosí,Bovino,2026-02-01,-,,guion
+San Luis Potosí,Bovino,2026-03-01,-,,guion
+San Luis Potosí,Bovino,2026-04-01,-,,guion
+San Luis Potosí,Bovino,2026-05-01,-,,guion
+San Luis Potosí,Bovino,2026-06-01,-,,guion
+San Luis Potosí,Bovino,2026-07-01,-,,guion
+San Luis Potosí,Bovino,2026-08-01,-,,guion
+San Luis Potosí,Bovino,2026-09-01,-,,guion
+Sinaloa,Bovino,2024-11-01,-,,guion
+Sinaloa,Bovino,2024-12-01,-,,guion
+Sinaloa,Bovino,2025-01-01,-,,guion
+Sinaloa,Bovino,2025-02-01,-,,guion
+Sinaloa,Bovino,2025-03-01,-,,guion
+Sinaloa,Bovino,2025-04-01,-,,guion
+Sinaloa,Bovino,2025-05-01,-,,guion
+Sinaloa,Bovino,2025-06-01,-,,guion
+Sinaloa,Bovino,2025-07-01,-,,guion
+Sinaloa,Bovino,2025-08-01,-,,guion
+Sinaloa,Bovino,2025-09-01,-,,guion
+Sinaloa,Bovino,2025-10-01,-,,guion
+Sinaloa,Bovino,2025-11-01,-,,guion
+Sinaloa,Bovino,2025-12-01,-,,guion
+Sinaloa,Bovino,2026-01-01,-,,guion
+Sinaloa,Bovino,2026-02-01,-,,guion
+Sinaloa,Bovino,2026-03-01,-,,guion
+Sinaloa,Bovino,2026-04-01,-,,guion
+Sinaloa,Bovino,2026-05-01,-,,guion
+Sinaloa,Bovino,2026-06-01,-,,guion
+Sinaloa,Bovino,2026-07-01,8,8,numerico
+Sinaloa,Bovino,2026-08-01,-,,guion
+Sinaloa,Bovino,2026-09-01,-,,guion
+Sonora,Bovino,2024-11-01,-,,guion
+Sonora,Bovino,2024-12-01,-,,guion
+Sonora,Bovino,2025-01-01,-,,guion
+Sonora,Bovino,2025-02-01,-,,guion
+Sonora,Bovino,2025-03-01,-,,guion
+Sonora,Bovino,2025-04-01,-,,guion
+Sonora,Bovino,2025-05-01,-,,guion
+Sonora,Bovino,2025-06-01,-,,guion
+Sonora,Bovino,2025-07-01,-,,guion
+Sonora,Bovino,2025-08-01,-,,guion
+Sonora,Bovino,2025-09-01,-,,guion
+Sonora,Bovino,2025-10-01,-,,guion
+Sonora,Bovino,2025-11-01,-,,guion
+Sonora,Bovino,2025-12-01,-,,guion
+Sonora,Bovino,2026-01-01,-,,guion
+Sonora,Bovino,2026-02-01,-,,guion
+Sonora,Bovino,2026-03-01,-,,guion
+Sonora,Bovino,2026-04-01,-,,guion
+Sonora,Bovino,2026-05-01,-,,guion
+Sonora,Bovino,2026-06-01,-,,guion
+Sonora,Bovino,2026-07-01,-,,guion
+Sonora,Bovino,2026-08-01,10,10,numerico
+Sonora,Bovino,2026-09-01,-,,guion
+Tabasco,Bovino,2024-11-01,-,,guion
+Tabasco,Bovino,2024-12-01,-,,guion
+Tabasco,Bovino,2025-01-01,-,,guion
+Tabasco,Bovino,2025-02-01,14,14,numerico
+Tabasco,Bovino,2025-03-01,108,108,numerico
+Tabasco,Bovino,2025-04-01,154,154,numerico
+Tabasco,Bovino,2025-05-01,82,82,numerico
+Tabasco,Bovino,2025-06-01,68,68,numerico
+Tabasco,Bovino,2025-07-01,17,17,numerico
+Tabasco,Bovino,2025-08-01,-,,guion
+Tabasco,Bovino,2025-09-01,-,,guion
+Tabasco,Bovino,2025-10-01,-,,guion
+Tabasco,Bovino,2025-11-01,-,,guion
+Tabasco,Bovino,2025-12-01,-,,guion
+Tabasco,Bovino,2026-01-01,-,,guion
+Tabasco,Bovino,2026-02-01,-,,guion
+Tabasco,Bovino,2026-03-01,-,,guion
+Tabasco,Bovino,2026-04-01,-,,guion
+Tabasco,Bovino,2026-05-01,-,,guion
+Tabasco,Bovino,2026-06-01,-,,guion
+Tabasco,Bovino,2026-07-01,-,,guion
+Tabasco,Bovino,2026-08-01,-,,guion
+Tabasco,Bovino,2026-09-01,-,,guion
+Tamaulipas,Bovino,2024-11-01,-,,guion
+Tamaulipas,Bovino,2024-12-01,-,,guion
+Tamaulipas,Bovino,2025-01-01,-,,guion
+Tamaulipas,Bovino,2025-02-01,-,,guion
+Tamaulipas,Bovino,2025-03-01,-,,guion
+Tamaulipas,Bovino,2025-04-01,-,,guion
+Tamaulipas,Bovino,2025-05-01,-,,guion
+Tamaulipas,Bovino,2025-06-01,-,,guion
+Tamaulipas,Bovino,2025-07-01,-,,guion
+Tamaulipas,Bovino,2025-08-01,-,,guion
+Tamaulipas,Bovino,2025-09-01,-,,guion
+Tamaulipas,Bovino,2025-10-01,-,,guion
+Tamaulipas,Bovino,2025-11-01,-,,guion
+Tamaulipas,Bovino,2025-12-01,1,1,numerico
+Tamaulipas,Bovino,2026-01-01,12,12,numerico
+Tamaulipas,Bovino,2026-02-01,-,,guion
+Tamaulipas,Bovino,2026-03-01,-,,guion
+Tamaulipas,Bovino,2026-04-01,-,,guion
+Tamaulipas,Bovino,2026-05-01,-,,guion
+Tamaulipas,Bovino,2026-06-01,-,,guion
+Tamaulipas,Bovino,2026-07-01,-,,guion
+Tamaulipas,Bovino,2026-08-01,-,,guion
+Tamaulipas,Bovino,2026-09-01,-,,guion
+Tlaxcala,Bovino,2024-11-01,-,,guion
+Tlaxcala,Bovino,2024-12-01,-,,guion
+Tlaxcala,Bovino,2025-01-01,-,,guion
+Tlaxcala,Bovino,2025-02-01,-,,guion
+Tlaxcala,Bovino,2025-03-01,-,,guion
+Tlaxcala,Bovino,2025-04-01,-,,guion
+Tlaxcala,Bovino,2025-05-01,-,,guion
+Tlaxcala,Bovino,2025-06-01,-,,guion
+Tlaxcala,Bovino,2025-07-01,-,,guion
+Tlaxcala,Bovino,2025-08-01,-,,guion
+Tlaxcala,Bovino,2025-09-01,-,,guion
+Tlaxcala,Bovino,2025-10-01,-,,guion
+Tlaxcala,Bovino,2025-11-01,-,,guion
+Tlaxcala,Bovino,2025-12-01,-,,guion
+Tlaxcala,Bovino,2026-01-01,-,,guion
+Tlaxcala,Bovino,2026-02-01,-,,guion
+Tlaxcala,Bovino,2026-03-01,-,,guion
+Tlaxcala,Bovino,2026-04-01,-,,guion
+Tlaxcala,Bovino,2026-05-01,1,1,numerico
+Tlaxcala,Bovino,2026-06-01,-,,guion
+Tlaxcala,Bovino,2026-07-01,-,,guion
+Tlaxcala,Bovino,2026-08-01,-,,guion
+Tlaxcala,Bovino,2026-09-01,-,,guion
+Veracruz,Bovino,2024-11-01,-,,guion
+Veracruz,Bovino,2024-12-01,-,,guion
+Veracruz,Bovino,2025-01-01,-,,guion
+Veracruz,Bovino,2025-02-01,-,,guion
+Veracruz,Bovino,2025-03-01,-,,guion
+Veracruz,Bovino,2025-04-01,-,,guion
+Veracruz,Bovino,2025-05-01,11,11,numerico
+Veracruz,Bovino,2025-06-01,53,53,numerico
+Veracruz,Bovino,2025-07-01,5,5,numerico
+Veracruz,Bovino,2025-08-01,-,,guion
+Veracruz,Bovino,2025-09-01,-,,guion
+Veracruz,Bovino,2025-10-01,-,,guion
+Veracruz,Bovino,2025-11-01,-,,guion
+Veracruz,Bovino,2025-12-01,-,,guion
+Veracruz,Bovino,2026-01-01,-,,guion
+Veracruz,Bovino,2026-02-01,-,,guion
+Veracruz,Bovino,2026-03-01,-,,guion
+Veracruz,Bovino,2026-04-01,-,,guion
+Veracruz,Bovino,2026-05-01,-,,guion
+Veracruz,Bovino,2026-06-01,-,,guion
+Veracruz,Bovino,2026-07-01,-,,guion
+Veracruz,Bovino,2026-08-01,-,,guion
+Veracruz,Bovino,2026-09-01,-,,guion
+Yucatán,Bovino,2024-11-01,-,,guion
+Yucatán,Bovino,2024-12-01,-,,guion
+Yucatán,Bovino,2025-01-01,-,,guion
+Yucatán,Bovino,2025-02-01,-,,guion
+Yucatán,Bovino,2025-03-01,1,1,numerico
+Yucatán,Bovino,2025-04-01,3,3,numerico
+Yucatán,Bovino,2025-05-01,5,5,numerico
+Yucatán,Bovino,2025-06-01,17,17,numerico
+Yucatán,Bovino,2025-07-01,22,22,numerico
+Yucatán,Bovino,2025-08-01,-,,guion
+Yucatán,Bovino,2025-09-01,-,,guion
+Yucatán,Bovino,2025-10-01,-,,guion
+Yucatán,Bovino,2025-11-01,-,,guion
+Yucatán,Bovino,2025-12-01,-,,guion
+Yucatán,Bovino,2026-01-01,-,,guion
+Yucatán,Bovino,2026-02-01,-,,guion
+Yucatán,Bovino,2026-03-01,-,,guion
+Yucatán,Bovino,2026-04-01,-,,guion
+Yucatán,Bovino,2026-05-01,-,,guion
+Yucatán,Bovino,2026-06-01,-,,guion
+Yucatán,Bovino,2026-07-01,-,,guion
+Yucatán,Bovino,2026-08-01,-,,guion
+Yucatán,Bovino,2026-09-01,-,,guion
+Zacatecas,Bovino,2024-11-01,-,,guion
+Zacatecas,Bovino,2024-12-01,-,,guion
+Zacatecas,Bovino,2025-01-01,-,,guion
+Zacatecas,Bovino,2025-02-01,-,,guion
+Zacatecas,Bovino,2025-03-01,-,,guion
+Zacatecas,Bovino,2025-04-01,-,,guion
+Zacatecas,Bovino,2025-05-01,-,,guion
+Zacatecas,Bovino,2025-06-01,-,,guion
+Zacatecas,Bovino,2025-07-01,-,,guion
+Zacatecas,Bovino,2025-08-01,-,,guion
+Zacatecas,Bovino,2025-09-01,-,,guion
+Zacatecas,Bovino,2025-10-01,-,,guion
+Zacatecas,Bovino,2025-11-01,-,,guion
+Zacatecas,Bovino,2025-12-01,-,,guion
+Zacatecas,Bovino,2026-01-01,-,,guion
+Zacatecas,Bovino,2026-02-01,-,,guion
+Zacatecas,Bovino,2026-03-01,-,,guion
+Zacatecas,Bovino,2026-04-01,5,5,numerico
+Zacatecas,Bovino,2026-05-01,1,1,numerico
+Zacatecas,Bovino,2026-06-01,-,,guion
+Zacatecas,Bovino,2026-07-01,-,,guion
+Zacatecas,Bovino,2026-08-01,-,,guion
+Zacatecas,Bovino,2026-09-01,-,,guion
+Aguascalientes,Porcino,2024-11-01,-,,guion
+Aguascalientes,Porcino,2024-12-01,-,,guion
+Aguascalientes,Porcino,2025-01-01,-,,guion
+Aguascalientes,Porcino,2025-02-01,-,,guion
+Aguascalientes,Porcino,2025-03-01,-,,guion
+Aguascalientes,Porcino,2025-04-01,-,,guion
+Aguascalientes,Porcino,2025-05-01,-,,guion
+Aguascalientes,Porcino,2025-06-01,-,,guion
+Aguascalientes,Porcino,2025-07-01,-,,guion
+Aguascalientes,Porcino,2025-08-01,-,,guion
+Aguascalientes,Porcino,2025-09-01,-,,guion
+Aguascalientes,Porcino,2025-10-01,-,,guion
+Aguascalientes,Porcino,2025-11-01,-,,guion
+Aguascalientes,Porcino,2025-12-01,-,,guion
+Aguascalientes,Porcino,2026-01-01,-,,guion
+Aguascalientes,Porcino,2026-02-01,-,,guion
+Aguascalientes,Porcino,2026-03-01,-,,guion
+Aguascalientes,Porcino,2026-04-01,-,,guion
+Aguascalientes,Porcino,2026-05-01,-,,guion
+Aguascalientes,Porcino,2026-06-01,-,,guion
+Aguascalientes,Porcino,2026-07-01,-,,guion
+Aguascalientes,Porcino,2026-08-01,-,,guion
+Aguascalientes,Porcino,2026-09-01,-,,guion
+Baja California,Porcino,2024-11-01,-,,guion
+Baja California,Porcino,2024-12-01,-,,guion
+Baja California,Porcino,2025-01-01,-,,guion
+Baja California,Porcino,2025-02-01,-,,guion
+Baja California,Porcino,2025-03-01,-,,guion
+Baja California,Porcino,2025-04-01,-,,guion
+Baja California,Porcino,2025-05-01,-,,guion
+Baja California,Porcino,2025-06-01,-,,guion
+Baja California,Porcino,2025-07-01,-,,guion
+Baja California,Porcino,2025-08-01,-,,guion
+Baja California,Porcino,2025-09-01,-,,guion
+Baja California,Porcino,2025-10-01,-,,guion
+Baja California,Porcino,2025-11-01,-,,guion
+Baja California,Porcino,2025-12-01,-,,guion
+Baja California,Porcino,2026-01-01,-,,guion
+Baja California,Porcino,2026-02-01,-,,guion
+Baja California,Porcino,2026-03-01,-,,guion
+Baja California,Porcino,2026-04-01,-,,guion
+Baja California,Porcino,2026-05-01,-,,guion
+Baja California,Porcino,2026-06-01,-,,guion
+Baja California,Porcino,2026-07-01,-,,guion
+Baja California,Porcino,2026-08-01,-,,guion
+Baja California,Porcino,2026-09-01,-,,guion
+Baja California Sur,Porcino,2024-11-01,-,,guion
+Baja California Sur,Porcino,2024-12-01,-,,guion
+Baja California Sur,Porcino,2025-01-01,-,,guion
+Baja California Sur,Porcino,2025-02-01,-,,guion
+Baja California Sur,Porcino,2025-03-01,-,,guion
+Baja California Sur,Porcino,2025-04-01,-,,guion
+Baja California Sur,Porcino,2025-05-01,-,,guion
+Baja California Sur,Porcino,2025-06-01,-,,guion
+Baja California Sur,Porcino,2025-07-01,-,,guion
+Baja California Sur,Porcino,2025-08-01,-,,guion
+Baja California Sur,Porcino,2025-09-01,-,,guion
+Baja California Sur,Porcino,2025-10-01,-,,guion
+Baja California Sur,Porcino,2025-11-01,-,,guion
+Baja California Sur,Porcino,2025-12-01,-,,guion
+Baja California Sur,Porcino,2026-01-01,-,,guion
+Baja California Sur,Porcino,2026-02-01,-,,guion
+Baja California Sur,Porcino,2026-03-01,-,,guion
+Baja California Sur,Porcino,2026-04-01,-,,guion
+Baja California Sur,Porcino,2026-05-01,-,,guion
+Baja California Sur,Porcino,2026-06-01,-,,guion
+Baja California Sur,Porcino,2026-07-01,-,,guion
+Baja California Sur,Porcino,2026-08-01,-,,guion
+Baja California Sur,Porcino,2026-09-01,-,,guion
+Campeche,Porcino,2024-11-01,-,,guion
+Campeche,Porcino,2024-12-01,-,,guion
+Campeche,Porcino,2025-01-01,-,,guion
+Campeche,Porcino,2025-02-01,-,,guion
+Campeche,Porcino,2025-03-01,1,1,numerico
+Campeche,Porcino,2025-04-01,4,4,numerico
+Campeche,Porcino,2025-05-01,3,3,numerico
+Campeche,Porcino,2025-06-01,2,2,numerico
+Campeche,Porcino,2025-07-01,-,,guion
+Campeche,Porcino,2025-08-01,-,,guion
+Campeche,Porcino,2025-09-01,-,,guion
+Campeche,Porcino,2025-10-01,-,,guion
+Campeche,Porcino,2025-11-01,-,,guion
+Campeche,Porcino,2025-12-01,-,,guion
+Campeche,Porcino,2026-01-01,-,,guion
+Campeche,Porcino,2026-02-01,-,,guion
+Campeche,Porcino,2026-03-01,-,,guion
+Campeche,Porcino,2026-04-01,-,,guion
+Campeche,Porcino,2026-05-01,-,,guion
+Campeche,Porcino,2026-06-01,-,,guion
+Campeche,Porcino,2026-07-01,-,,guion
+Campeche,Porcino,2026-08-01,-,,guion
+Campeche,Porcino,2026-09-01,-,,guion
+Chiapas,Porcino,2024-11-01,-,,guion
+Chiapas,Porcino,2024-12-01,-,,guion
+Chiapas,Porcino,2025-01-01,1,1,numerico
+Chiapas,Porcino,2025-02-01,-,,guion
+Chiapas,Porcino,2025-03-01,6,6,numerico
+Chiapas,Porcino,2025-04-01,12,12,numerico
+Chiapas,Porcino,2025-05-01,31,31,numerico
+Chiapas,Porcino,2025-06-01,1,1,numerico
+Chiapas,Porcino,2025-07-01,-,,guion
+Chiapas,Porcino,2025-08-01,-,,guion
+Chiapas,Porcino,2025-09-01,-,,guion
+Chiapas,Porcino,2025-10-01,-,,guion
+Chiapas,Porcino,2025-11-01,-,,guion
+Chiapas,Porcino,2025-12-01,-,,guion
+Chiapas,Porcino,2026-01-01,-,,guion
+Chiapas,Porcino,2026-02-01,-,,guion
+Chiapas,Porcino,2026-03-01,-,,guion
+Chiapas,Porcino,2026-04-01,-,,guion
+Chiapas,Porcino,2026-05-01,-,,guion
+Chiapas,Porcino,2026-06-01,-,,guion
+Chiapas,Porcino,2026-07-01,-,,guion
+Chiapas,Porcino,2026-08-01,-,,guion
+Chiapas,Porcino,2026-09-01,-,,guion
+Chihuahua,Porcino,2024-11-01,-,,guion
+Chihuahua,Porcino,2024-12-01,-,,guion
+Chihuahua,Porcino,2025-01-01,-,,guion
+Chihuahua,Porcino,2025-02-01,-,,guion
+Chihuahua,Porcino,2025-03-01,-,,guion
+Chihuahua,Porcino,2025-04-01,-,,guion
+Chihuahua,Porcino,2025-05-01,-,,guion
+Chihuahua,Porcino,2025-06-01,-,,guion
+Chihuahua,Porcino,2025-07-01,-,,guion
+Chihuahua,Porcino,2025-08-01,-,,guion
+Chihuahua,Porcino,2025-09-01,-,,guion
+Chihuahua,Porcino,2025-10-01,-,,guion
+Chihuahua,Porcino,2025-11-01,-,,guion
+Chihuahua,Porcino,2025-12-01,-,,guion
+Chihuahua,Porcino,2026-01-01,-,,guion
+Chihuahua,Porcino,2026-02-01,-,,guion
+Chihuahua,Porcino,2026-03-01,-,,guion
+Chihuahua,Porcino,2026-04-01,-,,guion
+Chihuahua,Porcino,2026-05-01,-,,guion
+Chihuahua,Porcino,2026-06-01,-,,guion
+Chihuahua,Porcino,2026-07-01,-,,guion
+Chihuahua,Porcino,2026-08-01,-,,guion
+Chihuahua,Porcino,2026-09-01,-,,guion
+Ciudad de México,Porcino,2024-11-01,-,,guion
+Ciudad de México,Porcino,2024-12-01,-,,guion
+Ciudad de México,Porcino,2025-01-01,-,,guion
+Ciudad de México,Porcino,2025-02-01,-,,guion
+Ciudad de México,Porcino,2025-03-01,-,,guion
+Ciudad de México,Porcino,2025-04-01,-,,guion
+Ciudad de México,Porcino,2025-05-01,-,,guion
+Ciudad de México,Porcino,2025-06-01,-,,guion
+Ciudad de México,Porcino,2025-07-01,-,,guion
+Ciudad de México,Porcino,2025-08-01,-,,guion
+Ciudad de México,Porcino,2025-09-01,-,,guion
+Ciudad de México,Porcino,2025-10-01,-,,guion
+Ciudad de México,Porcino,2025-11-01,-,,guion
+Ciudad de México,Porcino,2025-12-01,-,,guion
+Ciudad de México,Porcino,2026-01-01,-,,guion
+Ciudad de México,Porcino,2026-02-01,-,,guion
+Ciudad de México,Porcino,2026-03-01,-,,guion
+Ciudad de México,Porcino,2026-04-01,-,,guion
+Ciudad de México,Porcino,2026-05-01,-,,guion
+Ciudad de México,Porcino,2026-06-01,-,,guion
+Ciudad de México,Porcino,2026-07-01,-,,guion
+Ciudad de México,Porcino,2026-08-01,-,,guion
+Ciudad de México,Porcino,2026-09-01,-,,guion
+Coahuila,Porcino,2024-11-01,-,,guion
+Coahuila,Porcino,2024-12-01,-,,guion
+Coahuila,Porcino,2025-01-01,-,,guion
+Coahuila,Porcino,2025-02-01,-,,guion
+Coahuila,Porcino,2025-03-01,-,,guion
+Coahuila,Porcino,2025-04-01,-,,guion
+Coahuila,Porcino,2025-05-01,-,,guion
+Coahuila,Porcino,2025-06-01,-,,guion
+Coahuila,Porcino,2025-07-01,-,,guion
+Coahuila,Porcino,2025-08-01,-,,guion
+Coahuila,Porcino,2025-09-01,-,,guion
+Coahuila,Porcino,2025-10-01,-,,guion
+Coahuila,Porcino,2025-11-01,-,,guion
+Coahuila,Porcino,2025-12-01,-,,guion
+Coahuila,Porcino,2026-01-01,-,,guion
+Coahuila,Porcino,2026-02-01,-,,guion
+Coahuila,Porcino,2026-03-01,-,,guion
+Coahuila,Porcino,2026-04-01,-,,guion
+Coahuila,Porcino,2026-05-01,-,,guion
+Coahuila,Porcino,2026-06-01,-,,guion
+Coahuila,Porcino,2026-07-01,-,,guion
+Coahuila,Porcino,2026-08-01,-,,guion
+Coahuila,Porcino,2026-09-01,-,,guion
+Colima,Porcino,2024-11-01,-,,guion
+Colima,Porcino,2024-12-01,-,,guion
+Colima,Porcino,2025-01-01,-,,guion
+Colima,Porcino,2025-02-01,-,,guion
+Colima,Porcino,2025-03-01,-,,guion
+Colima,Porcino,2025-04-01,-,,guion
+Colima,Porcino,2025-05-01,-,,guion
+Colima,Porcino,2025-06-01,-,,guion
+Colima,Porcino,2025-07-01,-,,guion
+Colima,Porcino,2025-08-01,-,,guion
+Colima,Porcino,2025-09-01,-,,guion
+Colima,Porcino,2025-10-01,-,,guion
+Colima,Porcino,2025-11-01,-,,guion
+Colima,Porcino,2025-12-01,-,,guion
+Colima,Porcino,2026-01-01,-,,guion
+Colima,Porcino,2026-02-01,-,,guion
+Colima,Porcino,2026-03-01,-,,guion
+Colima,Porcino,2026-04-01,-,,guion
+Colima,Porcino,2026-05-01,-,,guion
+Colima,Porcino,2026-06-01,-,,guion
+Colima,Porcino,2026-07-01,-,,guion
+Colima,Porcino,2026-08-01,-,,guion
+Colima,Porcino,2026-09-01,-,,guion
+Durango,Porcino,2024-11-01,-,,guion
+Durango,Porcino,2024-12-01,-,,guion
+Durango,Porcino,2025-01-01,-,,guion
+Durango,Porcino,2025-02-01,-,,guion
+Durango,Porcino,2025-03-01,-,,guion
+Durango,Porcino,2025-04-01,-,,guion
+Durango,Porcino,2025-05-01,-,,guion
+Durango,Porcino,2025-06-01,-,,guion
+Durango,Porcino,2025-07-01,-,,guion
+Durango,Porcino,2025-08-01,-,,guion
+Durango,Porcino,2025-09-01,-,,guion
+Durango,Porcino,2025-10-01,-,,guion
+Durango,Porcino,2025-11-01,-,,guion
+Durango,Porcino,2025-12-01,-,,guion
+Durango,Porcino,2026-01-01,-,,guion
+Durango,Porcino,2026-02-01,-,,guion
+Durango,Porcino,2026-03-01,-,,guion
+Durango,Porcino,2026-04-01,-,,guion
+Durango,Porcino,2026-05-01,-,,guion
+Durango,Porcino,2026-06-01,-,,guion
+Durango,Porcino,2026-07-01,-,,guion
+Durango,Porcino,2026-08-01,-,,guion
+Durango,Porcino,2026-09-01,-,,guion
+Estado de México,Porcino,2024-11-01,-,,guion
+Estado de México,Porcino,2024-12-01,-,,guion
+Estado de México,Porcino,2025-01-01,-,,guion
+Estado de México,Porcino,2025-02-01,-,,guion
+Estado de México,Porcino,2025-03-01,-,,guion
+Estado de México,Porcino,2025-04-01,-,,guion
+Estado de México,Porcino,2025-05-01,-,,guion
+Estado de México,Porcino,2025-06-01,-,,guion
+Estado de México,Porcino,2025-07-01,-,,guion
+Estado de México,Porcino,2025-08-01,-,,guion
+Estado de México,Porcino,2025-09-01,-,,guion
+Estado de México,Porcino,2025-10-01,-,,guion
+Estado de México,Porcino,2025-11-01,-,,guion
+Estado de México,Porcino,2025-12-01,-,,guion
+Estado de México,Porcino,2026-01-01,-,,guion
+Estado de México,Porcino,2026-02-01,-,,guion
+Estado de México,Porcino,2026-03-01,-,,guion
+Estado de México,Porcino,2026-04-01,-,,guion
+Estado de México,Porcino,2026-05-01,-,,guion
+Estado de México,Porcino,2026-06-01,-,,guion
+Estado de México,Porcino,2026-07-01,-,,guion
+Estado de México,Porcino,2026-08-01,-,,guion
+Estado de México,Porcino,2026-09-01,-,,guion
+Guanajuato,Porcino,2024-11-01,-,,guion
+Guanajuato,Porcino,2024-12-01,-,,guion
+Guanajuato,Porcino,2025-01-01,-,,guion
+Guanajuato,Porcino,2025-02-01,-,,guion
+Guanajuato,Porcino,2025-03-01,-,,guion
+Guanajuato,Porcino,2025-04-01,-,,guion
+Guanajuato,Porcino,2025-05-01,-,,guion
+Guanajuato,Porcino,2025-06-01,-,,guion
+Guanajuato,Porcino,2025-07-01,-,,guion
+Guanajuato,Porcino,2025-08-01,-,,guion
+Guanajuato,Porcino,2025-09-01,-,,guion
+Guanajuato,Porcino,2025-10-01,-,,guion
+Guanajuato,Porcino,2025-11-01,-,,guion
+Guanajuato,Porcino,2025-12-01,-,,guion
+Guanajuato,Porcino,2026-01-01,-,,guion
+Guanajuato,Porcino,2026-02-01,-,,guion
+Guanajuato,Porcino,2026-03-01,-,,guion
+Guanajuato,Porcino,2026-04-01,-,,guion
+Guanajuato,Porcino,2026-05-01,-,,guion
+Guanajuato,Porcino,2026-06-01,-,,guion
+Guanajuato,Porcino,2026-07-01,-,,guion
+Guanajuato,Porcino,2026-08-01,-,,guion
+Guanajuato,Porcino,2026-09-01,-,,guion
+Guerrero,Porcino,2024-11-01,-,,guion
+Guerrero,Porcino,2024-12-01,-,,guion
+Guerrero,Porcino,2025-01-01,-,,guion
+Guerrero,Porcino,2025-02-01,-,,guion
+Guerrero,Porcino,2025-03-01,-,,guion
+Guerrero,Porcino,2025-04-01,-,,guion
+Guerrero,Porcino,2025-05-01,-,,guion
+Guerrero,Porcino,2025-06-01,-,,guion
+Guerrero,Porcino,2025-07-01,-,,guion
+Guerrero,Porcino,2025-08-01,-,,guion
+Guerrero,Porcino,2025-09-01,-,,guion
+Guerrero,Porcino,2025-10-01,-,,guion
+Guerrero,Porcino,2025-11-01,-,,guion
+Guerrero,Porcino,2025-12-01,-,,guion
+Guerrero,Porcino,2026-01-01,-,,guion
+Guerrero,Porcino,2026-02-01,-,,guion
+Guerrero,Porcino,2026-03-01,-,,guion
+Guerrero,Porcino,2026-04-01,-,,guion
+Guerrero,Porcino,2026-05-01,-,,guion
+Guerrero,Porcino,2026-06-01,-,,guion
+Guerrero,Porcino,2026-07-01,-,,guion
+Guerrero,Porcino,2026-08-01,-,,guion
+Guerrero,Porcino,2026-09-01,-,,guion
+Hidalgo,Porcino,2024-11-01,-,,guion
+Hidalgo,Porcino,2024-12-01,-,,guion
+Hidalgo,Porcino,2025-01-01,-,,guion
+Hidalgo,Porcino,2025-02-01,-,,guion
+Hidalgo,Porcino,2025-03-01,-,,guion
+Hidalgo,Porcino,2025-04-01,-,,guion
+Hidalgo,Porcino,2025-05-01,-,,guion
+Hidalgo,Porcino,2025-06-01,-,,guion
+Hidalgo,Porcino,2025-07-01,-,,guion
+Hidalgo,Porcino,2025-08-01,-,,guion
+Hidalgo,Porcino,2025-09-01,-,,guion
+Hidalgo,Porcino,2025-10-01,-,,guion
+Hidalgo,Porcino,2025-11-01,-,,guion
+Hidalgo,Porcino,2025-12-01,-,,guion
+Hidalgo,Porcino,2026-01-01,-,,guion
+Hidalgo,Porcino,2026-02-01,2,2,numerico
+Hidalgo,Porcino,2026-03-01,-,,guion
+Hidalgo,Porcino,2026-04-01,-,,guion
+Hidalgo,Porcino,2026-05-01,-,,guion
+Hidalgo,Porcino,2026-06-01,-,,guion
+Hidalgo,Porcino,2026-07-01,-,,guion
+Hidalgo,Porcino,2026-08-01,-,,guion
+Hidalgo,Porcino,2026-09-01,-,,guion
+Jalisco,Porcino,2024-11-01,-,,guion
+Jalisco,Porcino,2024-12-01,-,,guion
+Jalisco,Porcino,2025-01-01,-,,guion
+Jalisco,Porcino,2025-02-01,-,,guion
+Jalisco,Porcino,2025-03-01,-,,guion
+Jalisco,Porcino,2025-04-01,-,,guion
+Jalisco,Porcino,2025-05-01,-,,guion
+Jalisco,Porcino,2025-06-01,-,,guion
+Jalisco,Porcino,2025-07-01,-,,guion
+Jalisco,Porcino,2025-08-01,-,,guion
+Jalisco,Porcino,2025-09-01,-,,guion
+Jalisco,Porcino,2025-10-01,-,,guion
+Jalisco,Porcino,2025-11-01,-,,guion
+Jalisco,Porcino,2025-12-01,-,,guion
+Jalisco,Porcino,2026-01-01,-,,guion
+Jalisco,Porcino,2026-02-01,-,,guion
+Jalisco,Porcino,2026-03-01,-,,guion
+Jalisco,Porcino,2026-04-01,-,,guion
+Jalisco,Porcino,2026-05-01,-,,guion
+Jalisco,Porcino,2026-06-01,-,,guion
+Jalisco,Porcino,2026-07-01,-,,guion
+Jalisco,Porcino,2026-08-01,-,,guion
+Jalisco,Porcino,2026-09-01,-,,guion
+Michoacán,Porcino,2024-11-01,-,,guion
+Michoacán,Porcino,2024-12-01,-,,guion
+Michoacán,Porcino,2025-01-01,-,,guion
+Michoacán,Porcino,2025-02-01,-,,guion
+Michoacán,Porcino,2025-03-01,-,,guion
+Michoacán,Porcino,2025-04-01,-,,guion
+Michoacán,Porcino,2025-05-01,-,,guion
+Michoacán,Porcino,2025-06-01,-,,guion
+Michoacán,Porcino,2025-07-01,-,,guion
+Michoacán,Porcino,2025-08-01,-,,guion
+Michoacán,Porcino,2025-09-01,-,,guion
+Michoacán,Porcino,2025-10-01,-,,guion
+Michoacán,Porcino,2025-11-01,-,,guion
+Michoacán,Porcino,2025-12-01,-,,guion
+Michoacán,Porcino,2026-01-01,-,,guion
+Michoacán,Porcino,2026-02-01,-,,guion
+Michoacán,Porcino,2026-03-01,-,,guion
+Michoacán,Porcino,2026-04-01,-,,guion
+Michoacán,Porcino,2026-05-01,-,,guion
+Michoacán,Porcino,2026-06-01,-,,guion
+Michoacán,Porcino,2026-07-01,-,,guion
+Michoacán,Porcino,2026-08-01,-,,guion
+Michoacán,Porcino,2026-09-01,-,,guion
+Morelos,Porcino,2024-11-01,-,,guion
+Morelos,Porcino,2024-12-01,-,,guion
+Morelos,Porcino,2025-01-01,-,,guion
+Morelos,Porcino,2025-02-01,-,,guion
+Morelos,Porcino,2025-03-01,-,,guion
+Morelos,Porcino,2025-04-01,-,,guion
+Morelos,Porcino,2025-05-01,-,,guion
+Morelos,Porcino,2025-06-01,-,,guion
+Morelos,Porcino,2025-07-01,-,,guion
+Morelos,Porcino,2025-08-01,-,,guion
+Morelos,Porcino,2025-09-01,-,,guion
+Morelos,Porcino,2025-10-01,-,,guion
+Morelos,Porcino,2025-11-01,-,,guion
+Morelos,Porcino,2025-12-01,-,,guion
+Morelos,Porcino,2026-01-01,-,,guion
+Morelos,Porcino,2026-02-01,-,,guion
+Morelos,Porcino,2026-03-01,-,,guion
+Morelos,Porcino,2026-04-01,-,,guion
+Morelos,Porcino,2026-05-01,-,,guion
+Morelos,Porcino,2026-06-01,-,,guion
+Morelos,Porcino,2026-07-01,-,,guion
+Morelos,Porcino,2026-08-01,-,,guion
+Morelos,Porcino,2026-09-01,-,,guion
+Nayarit,Porcino,2024-11-01,-,,guion
+Nayarit,Porcino,2024-12-01,-,,guion
+Nayarit,Porcino,2025-01-01,-,,guion
+Nayarit,Porcino,2025-02-01,-,,guion
+Nayarit,Porcino,2025-03-01,-,,guion
+Nayarit,Porcino,2025-04-01,-,,guion
+Nayarit,Porcino,2025-05-01,-,,guion
+Nayarit,Porcino,2025-06-01,-,,guion
+Nayarit,Porcino,2025-07-01,-,,guion
+Nayarit,Porcino,2025-08-01,-,,guion
+Nayarit,Porcino,2025-09-01,-,,guion
+Nayarit,Porcino,2025-10-01,-,,guion
+Nayarit,Porcino,2025-11-01,-,,guion
+Nayarit,Porcino,2025-12-01,-,,guion
+Nayarit,Porcino,2026-01-01,-,,guion
+Nayarit,Porcino,2026-02-01,-,,guion
+Nayarit,Porcino,2026-03-01,-,,guion
+Nayarit,Porcino,2026-04-01,-,,guion
+Nayarit,Porcino,2026-05-01,-,,guion
+Nayarit,Porcino,2026-06-01,-,,guion
+Nayarit,Porcino,2026-07-01,-,,guion
+Nayarit,Porcino,2026-08-01,-,,guion
+Nayarit,Porcino,2026-09-01,-,,guion
+Nuevo León,Porcino,2024-11-01,-,,guion
+Nuevo León,Porcino,2024-12-01,-,,guion
+Nuevo León,Porcino,2025-01-01,-,,guion
+Nuevo León,Porcino,2025-02-01,-,,guion
+Nuevo León,Porcino,2025-03-01,-,,guion
+Nuevo León,Porcino,2025-04-01,-,,guion
+Nuevo León,Porcino,2025-05-01,-,,guion
+Nuevo León,Porcino,2025-06-01,-,,guion
+Nuevo León,Porcino,2025-07-01,-,,guion
+Nuevo León,Porcino,2025-08-01,-,,guion
+Nuevo León,Porcino,2025-09-01,-,,guion
+Nuevo León,Porcino,2025-10-01,-,,guion
+Nuevo León,Porcino,2025-11-01,-,,guion
+Nuevo León,Porcino,2025-12-01,-,,guion
+Nuevo León,Porcino,2026-01-01,-,,guion
+Nuevo León,Porcino,2026-02-01,-,,guion
+Nuevo León,Porcino,2026-03-01,-,,guion
+Nuevo León,Porcino,2026-04-01,-,,guion
+Nuevo León,Porcino,2026-05-01,-,,guion
+Nuevo León,Porcino,2026-06-01,-,,guion
+Nuevo León,Porcino,2026-07-01,-,,guion
+Nuevo León,Porcino,2026-08-01,-,,guion
+Nuevo León,Porcino,2026-09-01,-,,guion
+Oaxaca,Porcino,2024-11-01,-,,guion
+Oaxaca,Porcino,2024-12-01,-,,guion
+Oaxaca,Porcino,2025-01-01,-,,guion
+Oaxaca,Porcino,2025-02-01,-,,guion
+Oaxaca,Porcino,2025-03-01,-,,guion
+Oaxaca,Porcino,2025-04-01,-,,guion
+Oaxaca,Porcino,2025-05-01,-,,guion
+Oaxaca,Porcino,2025-06-01,2,2,numerico
+Oaxaca,Porcino,2025-07-01,1,1,numerico
+Oaxaca,Porcino,2025-08-01,-,,guion
+Oaxaca,Porcino,2025-09-01,-,,guion
+Oaxaca,Porcino,2025-10-01,-,,guion
+Oaxaca,Porcino,2025-11-01,-,,guion
+Oaxaca,Porcino,2025-12-01,-,,guion
+Oaxaca,Porcino,2026-01-01,-,,guion
+Oaxaca,Porcino,2026-02-01,-,,guion
+Oaxaca,Porcino,2026-03-01,-,,guion
+Oaxaca,Porcino,2026-04-01,-,,guion
+Oaxaca,Porcino,2026-05-01,-,,guion
+Oaxaca,Porcino,2026-06-01,-,,guion
+Oaxaca,Porcino,2026-07-01,-,,guion
+Oaxaca,Porcino,2026-08-01,-,,guion
+Oaxaca,Porcino,2026-09-01,-,,guion
+Puebla,Porcino,2024-11-01,-,,guion
+Puebla,Porcino,2024-12-01,-,,guion
+Puebla,Porcino,2025-01-01,-,,guion
+Puebla,Porcino,2025-02-01,-,,guion
+Puebla,Porcino,2025-03-01,-,,guion
+Puebla,Porcino,2025-04-01,-,,guion
+Puebla,Porcino,2025-05-01,-,,guion
+Puebla,Porcino,2025-06-01,-,,guion
+Puebla,Porcino,2025-07-01,-,,guion
+Puebla,Porcino,2025-08-01,-,,guion
+Puebla,Porcino,2025-09-01,-,,guion
+Puebla,Porcino,2025-10-01,-,,guion
+Puebla,Porcino,2025-11-01,-,,guion
+Puebla,Porcino,2025-12-01,-,,guion
+Puebla,Porcino,2026-01-01,-,,guion
+Puebla,Porcino,2026-02-01,-,,guion
+Puebla,Porcino,2026-03-01,-,,guion
+Puebla,Porcino,2026-04-01,-,,guion
+Puebla,Porcino,2026-05-01,-,,guion
+Puebla,Porcino,2026-06-01,-,,guion
+Puebla,Porcino,2026-07-01,-,,guion
+Puebla,Porcino,2026-08-01,-,,guion
+Puebla,Porcino,2026-09-01,-,,guion
+Querétaro,Porcino,2024-11-01,-,,guion
+Querétaro,Porcino,2024-12-01,-,,guion
+Querétaro,Porcino,2025-01-01,-,,guion
+Querétaro,Porcino,2025-02-01,-,,guion
+Querétaro,Porcino,2025-03-01,-,,guion
+Querétaro,Porcino,2025-04-01,-,,guion
+Querétaro,Porcino,2025-05-01,-,,guion
+Querétaro,Porcino,2025-06-01,-,,guion
+Querétaro,Porcino,2025-07-01,-,,guion
+Querétaro,Porcino,2025-08-01,-,,guion
+Querétaro,Porcino,2025-09-01,-,,guion
+Querétaro,Porcino,2025-10-01,-,,guion
+Querétaro,Porcino,2025-11-01,-,,guion
+Querétaro,Porcino,2025-12-01,-,,guion
+Querétaro,Porcino,2026-01-01,-,,guion
+Querétaro,Porcino,2026-02-01,-,,guion
+Querétaro,Porcino,2026-03-01,1,1,numerico
+Querétaro,Porcino,2026-04-01,-,,guion
+Querétaro,Porcino,2026-05-01,-,,guion
+Querétaro,Porcino,2026-06-01,-,,guion
+Querétaro,Porcino,2026-07-01,-,,guion
+Querétaro,Porcino,2026-08-01,-,,guion
+Querétaro,Porcino,2026-09-01,-,,guion
+Quintana Roo,Porcino,2024-11-01,-,,guion
+Quintana Roo,Porcino,2024-12-01,-,,guion
+Quintana Roo,Porcino,2025-01-01,-,,guion
+Quintana Roo,Porcino,2025-02-01,-,,guion
+Quintana Roo,Porcino,2025-03-01,-,,guion
+Quintana Roo,Porcino,2025-04-01,1,1,numerico
+Quintana Roo,Porcino,2025-05-01,1,1,numerico
+Quintana Roo,Porcino,2025-06-01,2,2,numerico
+Quintana Roo,Porcino,2025-07-01,-,,guion
+Quintana Roo,Porcino,2025-08-01,-,,guion
+Quintana Roo,Porcino,2025-09-01,-,,guion
+Quintana Roo,Porcino,2025-10-01,-,,guion
+Quintana Roo,Porcino,2025-11-01,-,,guion
+Quintana Roo,Porcino,2025-12-01,-,,guion
+Quintana Roo,Porcino,2026-01-01,-,,guion
+Quintana Roo,Porcino,2026-02-01,-,,guion
+Quintana Roo,Porcino,2026-03-01,-,,guion
+Quintana Roo,Porcino,2026-04-01,-,,guion
+Quintana Roo,Porcino,2026-05-01,-,,guion
+Quintana Roo,Porcino,2026-06-01,-,,guion
+Quintana Roo,Porcino,2026-07-01,-,,guion
+Quintana Roo,Porcino,2026-08-01,-,,guion
+Quintana Roo,Porcino,2026-09-01,-,,guion
+San Luis Potosí,Porcino,2024-11-01,-,,guion
+San Luis Potosí,Porcino,2024-12-01,-,,guion
+San Luis Potosí,Porcino,2025-01-01,-,,guion
+San Luis Potosí,Porcino,2025-02-01,-,,guion
+San Luis Potosí,Porcino,2025-03-01,-,,guion
+San Luis Potosí,Porcino,2025-04-01,-,,guion
+San Luis Potosí,Porcino,2025-05-01,-,,guion
+San Luis Potosí,Porcino,2025-06-01,-,,guion
+San Luis Potosí,Porcino,2025-07-01,-,,guion
+San Luis Potosí,Porcino,2025-08-01,-,,guion
+San Luis Potosí,Porcino,2025-09-01,-,,guion
+San Luis Potosí,Porcino,2025-10-01,-,,guion
+San Luis Potosí,Porcino,2025-11-01,-,,guion
+San Luis Potosí,Porcino,2025-12-01,-,,guion
+San Luis Potosí,Porcino,2026-01-01,-,,guion
+San Luis Potosí,Porcino,2026-02-01,-,,guion
+San Luis Potosí,Porcino,2026-03-01,-,,guion
+San Luis Potosí,Porcino,2026-04-01,-,,guion
+San Luis Potosí,Porcino,2026-05-01,-,,guion
+San Luis Potosí,Porcino,2026-06-01,-,,guion
+San Luis Potosí,Porcino,2026-07-01,-,,guion
+San Luis Potosí,Porcino,2026-08-01,-,,guion
+San Luis Potosí,Porcino,2026-09-01,-,,guion
+Sinaloa,Porcino,2024-11-01,-,,guion
+Sinaloa,Porcino,2024-12-01,-,,guion
+Sinaloa,Porcino,2025-01-01,-,,guion
+Sinaloa,Porcino,2025-02-01,-,,guion
+Sinaloa,Porcino,2025-03-01,-,,guion
+Sinaloa,Porcino,2025-04-01,-,,guion
+Sinaloa,Porcino,2025-05-01,-,,guion
+Sinaloa,Porcino,2025-06-01,-,,guion
+Sinaloa,Porcino,2025-07-01,-,,guion
+Sinaloa,Porcino,2025-08-01,-,,guion
+Sinaloa,Porcino,2025-09-01,-,,guion
+Sinaloa,Porcino,2025-10-01,-,,guion
+Sinaloa,Porcino,2025-11-01,-,,guion
+Sinaloa,Porcino,2025-12-01,-,,guion
+Sinaloa,Porcino,2026-01-01,-,,guion
+Sinaloa,Porcino,2026-02-01,-,,guion
+Sinaloa,Porcino,2026-03-01,-,,guion
+Sinaloa,Porcino,2026-04-01,-,,guion
+Sinaloa,Porcino,2026-05-01,-,,guion
+Sinaloa,Porcino,2026-06-01,-,,guion
+Sinaloa,Porcino,2026-07-01,-,,guion
+Sinaloa,Porcino,2026-08-01,-,,guion
+Sinaloa,Porcino,2026-09-01,-,,guion
+Sonora,Porcino,2024-11-01,-,,guion
+Sonora,Porcino,2024-12-01,-,,guion
+Sonora,Porcino,2025-01-01,-,,guion
+Sonora,Porcino,2025-02-01,-,,guion
+Sonora,Porcino,2025-03-01,-,,guion
+Sonora,Porcino,2025-04-01,-,,guion
+Sonora,Porcino,2025-05-01,-,,guion
+Sonora,Porcino,2025-06-01,-,,guion
+Sonora,Porcino,2025-07-01,-,,guion
+Sonora,Porcino,2025-08-01,-,,guion
+Sonora,Porcino,2025-09-01,-,,guion
+Sonora,Porcino,2025-10-01,-,,guion
+Sonora,Porcino,2025-11-01,-,,guion
+Sonora,Porcino,2025-12-01,-,,guion
+Sonora,Porcino,2026-01-01,-,,guion
+Sonora,Porcino,2026-02-01,-,,guion
+Sonora,Porcino,2026-03-01,-,,guion
+Sonora,Porcino,2026-04-01,-,,guion
+Sonora,Porcino,2026-05-01,-,,guion
+Sonora,Porcino,2026-06-01,-,,guion
+Sonora,Porcino,2026-07-01,-,,guion
+Sonora,Porcino,2026-08-01,-,,guion
+Sonora,Porcino,2026-09-01,-,,guion
+Tabasco,Porcino,2024-11-01,-,,guion
+Tabasco,Porcino,2024-12-01,-,,guion
+Tabasco,Porcino,2025-01-01,-,,guion
+Tabasco,Porcino,2025-02-01,-,,guion
+Tabasco,Porcino,2025-03-01,4,4,numerico
+Tabasco,Porcino,2025-04-01,12,12,numerico
+Tabasco,Porcino,2025-05-01,8,8,numerico
+Tabasco,Porcino,2025-06-01,2,2,numerico
+Tabasco,Porcino,2025-07-01,1,1,numerico
+Tabasco,Porcino,2025-08-01,-,,guion
+Tabasco,Porcino,2025-09-01,-,,guion
+Tabasco,Porcino,2025-10-01,-,,guion
+Tabasco,Porcino,2025-11-01,-,,guion
+Tabasco,Porcino,2025-12-01,-,,guion
+Tabasco,Porcino,2026-01-01,-,,guion
+Tabasco,Porcino,2026-02-01,-,,guion
+Tabasco,Porcino,2026-03-01,-,,guion
+Tabasco,Porcino,2026-04-01,-,,guion
+Tabasco,Porcino,2026-05-01,-,,guion
+Tabasco,Porcino,2026-06-01,-,,guion
+Tabasco,Porcino,2026-07-01,-,,guion
+Tabasco,Porcino,2026-08-01,-,,guion
+Tabasco,Porcino,2026-09-01,-,,guion
+Tamaulipas,Porcino,2024-11-01,-,,guion
+Tamaulipas,Porcino,2024-12-01,-,,guion
+Tamaulipas,Porcino,2025-01-01,-,,guion
+Tamaulipas,Porcino,2025-02-01,-,,guion
+Tamaulipas,Porcino,2025-03-01,-,,guion
+Tamaulipas,Porcino,2025-04-01,-,,guion
+Tamaulipas,Porcino,2025-05-01,-,,guion
+Tamaulipas,Porcino,2025-06-01,-,,guion
+Tamaulipas,Porcino,2025-07-01,-,,guion
+Tamaulipas,Porcino,2025-08-01,-,,guion
+Tamaulipas,Porcino,2025-09-01,-,,guion
+Tamaulipas,Porcino,2025-10-01,-,,guion
+Tamaulipas,Porcino,2025-11-01,-,,guion
+Tamaulipas,Porcino,2025-12-01,-,,guion
+Tamaulipas,Porcino,2026-01-01,4,4,numerico
+Tamaulipas,Porcino,2026-02-01,-,,guion
+Tamaulipas,Porcino,2026-03-01,-,,guion
+Tamaulipas,Porcino,2026-04-01,-,,guion
+Tamaulipas,Porcino,2026-05-01,-,,guion
+Tamaulipas,Porcino,2026-06-01,-,,guion
+Tamaulipas,Porcino,2026-07-01,-,,guion
+Tamaulipas,Porcino,2026-08-01,-,,guion
+Tamaulipas,Porcino,2026-09-01,-,,guion
+Tlaxcala,Porcino,2024-11-01,-,,guion
+Tlaxcala,Porcino,2024-12-01,-,,guion
+Tlaxcala,Porcino,2025-01-01,-,,guion
+Tlaxcala,Porcino,2025-02-01,-,,guion
+Tlaxcala,Porcino,2025-03-01,-,,guion
+Tlaxcala,Porcino,2025-04-01,-,,guion
+Tlaxcala,Porcino,2025-05-01,-,,guion
+Tlaxcala,Porcino,2025-06-01,-,,guion
+Tlaxcala,Porcino,2025-07-01,-,,guion
+Tlaxcala,Porcino,2025-08-01,-,,guion
+Tlaxcala,Porcino,2025-09-01,-,,guion
+Tlaxcala,Porcino,2025-10-01,-,,guion
+Tlaxcala,Porcino,2025-11-01,-,,guion
+Tlaxcala,Porcino,2025-12-01,-,,guion
+Tlaxcala,Porcino,2026-01-01,-,,guion
+Tlaxcala,Porcino,2026-02-01,-,,guion
+Tlaxcala,Porcino,2026-03-01,-,,guion
+Tlaxcala,Porcino,2026-04-01,-,,guion
+Tlaxcala,Porcino,2026-05-01,-,,guion
+Tlaxcala,Porcino,2026-06-01,-,,guion
+Tlaxcala,Porcino,2026-07-01,-,,guion
+Tlaxcala,Porcino,2026-08-01,-,,guion
+Tlaxcala,Porcino,2026-09-01,-,,guion
+Veracruz,Porcino,2024-11-01,-,,guion
+Veracruz,Porcino,2024-12-01,-,,guion
+Veracruz,Porcino,2025-01-01,-,,guion
+Veracruz,Porcino,2025-02-01,-,,guion
+Veracruz,Porcino,2025-03-01,-,,guion
+Veracruz,Porcino,2025-04-01,-,,guion
+Veracruz,Porcino,2025-05-01,-,,guion
+Veracruz,Porcino,2025-06-01,-,,guion
+Veracruz,Porcino,2025-07-01,-,,guion
+Veracruz,Porcino,2025-08-01,-,,guion
+Veracruz,Porcino,2025-09-01,-,,guion
+Veracruz,Porcino,2025-10-01,-,,guion
+Veracruz,Porcino,2025-11-01,-,,guion
+Veracruz,Porcino,2025-12-01,-,,guion
+Veracruz,Porcino,2026-01-01,-,,guion
+Veracruz,Porcino,2026-02-01,-,,guion
+Veracruz,Porcino,2026-03-01,-,,guion
+Veracruz,Porcino,2026-04-01,-,,guion
+Veracruz,Porcino,2026-05-01,-,,guion
+Veracruz,Porcino,2026-06-01,-,,guion
+Veracruz,Porcino,2026-07-01,-,,guion
+Veracruz,Porcino,2026-08-01,-,,guion
+Veracruz,Porcino,2026-09-01,-,,guion
+Yucatán,Porcino,2024-11-01,-,,guion
+Yucatán,Porcino,2024-12-01,-,,guion
+Yucatán,Porcino,2025-01-01,-,,guion
+Yucatán,Porcino,2025-02-01,-,,guion
+Yucatán,Porcino,2025-03-01,-,,guion
+Yucatán,Porcino,2025-04-01,-,,guion
+Yucatán,Porcino,2025-05-01,-,,guion
+Yucatán,Porcino,2025-06-01,-,,guion
+Yucatán,Porcino,2025-07-01,1,1,numerico
+Yucatán,Porcino,2025-08-01,-,,guion
+Yucatán,Porcino,2025-09-01,-,,guion
+Yucatán,Porcino,2025-10-01,-,,guion
+Yucatán,Porcino,2025-11-01,-,,guion
+Yucatán,Porcino,2025-12-01,-,,guion
+Yucatán,Porcino,2026-01-01,-,,guion
+Yucatán,Porcino,2026-02-01,-,,guion
+Yucatán,Porcino,2026-03-01,-,,guion
+Yucatán,Porcino,2026-04-01,-,,guion
+Yucatán,Porcino,2026-05-01,-,,guion
+Yucatán,Porcino,2026-06-01,-,,guion
+Yucatán,Porcino,2026-07-01,-,,guion
+Yucatán,Porcino,2026-08-01,-,,guion
+Yucatán,Porcino,2026-09-01,-,,guion
+Zacatecas,Porcino,2024-11-01,-,,guion
+Zacatecas,Porcino,2024-12-01,-,,guion
+Zacatecas,Porcino,2025-01-01,-,,guion
+Zacatecas,Porcino,2025-02-01,-,,guion
+Zacatecas,Porcino,2025-03-01,-,,guion
+Zacatecas,Porcino,2025-04-01,-,,guion
+Zacatecas,Porcino,2025-05-01,-,,guion
+Zacatecas,Porcino,2025-06-01,-,,guion
+Zacatecas,Porcino,2025-07-01,-,,guion
+Zacatecas,Porcino,2025-08-01,-,,guion
+Zacatecas,Porcino,2025-09-01,-,,guion
+Zacatecas,Porcino,2025-10-01,-,,guion
+Zacatecas,Porcino,2025-11-01,-,,guion
+Zacatecas,Porcino,2025-12-01,-,,guion
+Zacatecas,Porcino,2026-01-01,-,,guion
+Zacatecas,Porcino,2026-02-01,-,,guion
+Zacatecas,Porcino,2026-03-01,-,,guion
+Zacatecas,Porcino,2026-04-01,-,,guion
+Zacatecas,Porcino,2026-05-01,-,,guion
+Zacatecas,Porcino,2026-06-01,-,,guion
+Zacatecas,Porcino,2026-07-01,-,,guion
+Zacatecas,Porcino,2026-08-01,-,,guion
+Zacatecas,Porcino,2026-09-01,-,,guion

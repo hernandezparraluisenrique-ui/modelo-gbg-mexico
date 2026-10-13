@@ -5,9 +5,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-# =========================================
 # RUTA DEL PROYECTO
-# =========================================
+
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 
@@ -18,9 +17,8 @@ if str(ROOT_DIR) not in sys.path:
 from src.simulacion.simulador import ejecutar_simulacion
 
 
-# =========================================
 # PARÁMETROS DEL MODELO
-# =========================================
+
 
 parametros = {
     "b": 0.25,
@@ -31,9 +29,8 @@ parametros = {
 }
 
 
-# =========================================
 # CONDICIONES INICIALES
-# =========================================
+
 
 estado_inicial = [
     100,   # Mw
@@ -42,9 +39,9 @@ estado_inicial = [
 ]
 
 
-# =========================================
+
 # TIEMPO DE SIMULACIÓN
-# =========================================
+
 
 # 100 semanas
 # 1 punto cada 0.1 semanas
@@ -56,14 +53,10 @@ tiempo = np.linspace(
 )
 
 
-# =========================================
 # FUNCIONES DE LIBERACIÓN
-# =========================================
+
 
 def liberacion_sin_tie(t):
-    """
-    Sin liberación de machos estériles.
-    """
     return 0
 
 
@@ -91,9 +84,9 @@ def liberacion_programada(t):
         return 60
 
 
-# =========================================
+
 # ESCENARIO 1: SIN TIE
-# =========================================
+
 
 parametros_sin_tie = parametros.copy()
 
@@ -107,9 +100,9 @@ resultado_sin_tie = ejecutar_simulacion(
 )
 
 
-# =========================================
+
 # ESCENARIO 2: CON TIE
-# =========================================
+
 
 parametros_con_tie = parametros.copy()
 
@@ -123,9 +116,9 @@ resultado_con_tie = ejecutar_simulacion(
 )
 
 
-# =========================================
+
 # POBLACIÓN SILVESTRE TOTAL
-# =========================================
+
 
 poblacion_sin_tie = (
     resultado_sin_tie.y[0]
@@ -139,9 +132,9 @@ poblacion_con_tie = (
 )
 
 
-# =========================================
+
 # LIBERACIÓN PROGRAMADA
-# =========================================
+
 
 liberaciones = [
     liberacion_programada(t)
@@ -149,13 +142,13 @@ liberaciones = [
 ]
 
 
-# =========================================
-# RESULTADOS FINALES
-# =========================================
 
-print("=========================================")
+# RESULTADOS FINALES
+
+
+
 print("ESCENARIO SIN TIE")
-print("=========================================")
+
 
 print(
     f"Machos silvestres: "
@@ -173,9 +166,9 @@ print(
 )
 
 
-print("\n=========================================")
+
 print("ESCENARIO CON TIE")
-print("=========================================")
+
 
 print(
     f"Machos silvestres: "
@@ -198,9 +191,9 @@ print(
 )
 
 
-# =========================================
+
 # GRÁFICA COMPARATIVA
-# =========================================
+
 
 plt.figure(figsize=(10, 6))
 
@@ -226,6 +219,12 @@ plt.plot(
     tiempo,
     liberaciones,
     label="Liberación de estériles"
+)
+
+plt.plot(
+    tiempo,
+    resultado_con_tie.y[2],
+    label="Machos estériles presentes"
 )
 
 

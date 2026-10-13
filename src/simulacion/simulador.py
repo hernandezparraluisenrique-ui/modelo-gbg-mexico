@@ -5,26 +5,7 @@ from src.modelo.poblacion import modelo_gbg
 
 
 def ejecutar_simulacion(parametros, estado_inicial, tiempo):
-    """
-    Ejecuta una simulación del modelo poblacional del GBG.
 
-    Parámetros
-    ----------
-    parametros : dict
-        Parámetros del modelo.
-
-    estado_inicial : list
-        Estado inicial:
-        [Mw, Fv, Fm, Ms]
-
-    tiempo : array
-        Vector de tiempo de simulación.
-
-    Retorna
-    -------
-    resultado : OdeResult
-        Resultado de la simulación.
-    """
 
     resultado = solve_ivp(
         fun=lambda t, estado: modelo_gbg(
