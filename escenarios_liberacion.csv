@@ -1,0 +1,5 @@
+﻿capacidad_pupas_dia,dias_simulados,liberados_acumulados,machos_esteriles_vivos_dia_final,machos_silvestres_dia_final,hembras_silvestres_dia_final,minimo_poblacion_silvestre,integracion_exitosa,tipo_resultado
+0,365,0.0,0.0,1.2907960845489331e-05,1.2907960845489331e-05,2.581592172458978e-06,True,exploratorio; parametros biologicos no calibrados
+1000,365,106873.8474147941,2082.644628099174,-7.608667097283362e-11,-7.608667097283362e-11,-1.0888386256560528e-10,True,exploratorio; parametros biologicos no calibrados
+10000,365,1068738.4741479408,20826.446280991735,-6.128192449975944e-11,-6.128192449975944e-11,-9.473602478625901e-11,True,exploratorio; parametros biologicos no calibrados
+100000,365,10687384.74147941,208264.46280991737,-1.9244937076709812e-10,-1.9244937076709812e-10,-2.2084950797680205e-10,True,exploratorio; parametros biologicos no calibrados

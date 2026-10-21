@@ -1,0 +1,24 @@
+﻿periodo,bovinos,porcinos,bovinos_completo,porcinos_completo,casos_validos,hay_dato,indice_mes,casos_estimados_tendencia,residuo_casos,tipo_ajuste
+2024-11,2.0,0,si,si,2.0,True,0,27.16082089171854,-25.16082089171854,tendencia exploratoria; no es población de moscas
+2024-12,1.0,0,si,si,1.0,True,1,25.390877521637872,-24.390877521637872,tendencia exploratoria; no es población de moscas
+2025-01,,1,no,si,1.0,True,2,23.736273063653538,-22.736273063653538,tendencia exploratoria; no es población de moscas
+2025-02,59.0,0,si,si,59.0,True,3,22.189491421562437,36.81050857843756,tendencia exploratoria; no es población de moscas
+2025-03,437.0,11,si,si,448.0,True,4,20.74350628791626,427.25649371208374,tendencia exploratoria; no es población de moscas
+2025-04,572.0,29,si,si,601.0,True,5,19.391749226784412,581.6082507732156,tendencia exploratoria; no es población de moscas
+2025-05,630.0,43,si,si,673.0,True,6,18.12807983641368,654.8719201635863,tendencia exploratoria; no es población de moscas
+2025-06,261.0,9,si,si,270.0,True,7,16.946757856247462,253.05324214375253,tendencia exploratoria; no es población de moscas
+2025-07,106.0,3,si,si,109.0,True,8,15.842417091599824,93.15758290840017,tendencia exploratoria; no es población de moscas
+2025-08,0.0,0,si,si,0.0,True,9,14.810041037536283,-14.810041037536283,tendencia exploratoria; no es población de moscas
+2025-09,2.0,0,si,si,2.0,True,10,13.844940091232015,-11.844940091232015,tendencia exploratoria; no es población de moscas
+2025-10,4.0,0,si,si,4.0,True,11,12.942730249293875,-8.942730249293875,tendencia exploratoria; no es población de moscas
+2025-11,,0,no,si,0.0,True,12,12.099313193278036,-12.099313193278036,tendencia exploratoria; no es población de moscas
+2025-12,3.0,0,si,si,3.0,True,13,11.31085767294112,-8.31085767294112,tendencia exploratoria; no es población de moscas
+2026-01,14.0,4,si,si,18.0,True,14,10.573782102657555,7.426217897342445,tendencia exploratoria; no es población de moscas
+2026-02,55.0,2,si,si,57.0,True,15,9.884738291946853,47.11526170805315,tendencia exploratoria; no es población de moscas
+2026-03,40.0,1,si,si,41.0,True,16,9.240596236206116,31.759403763793884,tendencia exploratoria; no es población de moscas
+2026-04,15.0,0,si,si,15.0,True,17,8.63842989855926,6.361570101440741,tendencia exploratoria; no es población de moscas
+2026-05,11.0,0,si,si,11.0,True,18,8.075503918236409,2.924496081763591,tendencia exploratoria; no es población de moscas
+2026-06,9.0,0,si,si,9.0,True,19,7.549261185105946,1.4507388148940539,tendencia exploratoria; no es población de moscas
+2026-07,,0,no,si,0.0,True,20,7.057311223916038,-7.057311223916038,tendencia exploratoria; no es población de moscas
+2026-08,10.0,0,si,si,10.0,True,21,6.5974193354806765,3.4025806645193235,tendencia exploratoria; no es población de moscas
+2026-09,0.0,0,si,si,0.0,True,22,6.16749644548375,-6.16749644548375,tendencia exploratoria; no es población de moscas

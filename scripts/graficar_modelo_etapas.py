@@ -3,29 +3,14 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import solve_ivp
 
+from src.modelo.parametros import PARAMETROS
+
 from src.modelo.modelo_etapas import modelo_gbg_etapas
 
+
+
 # Parámetros ficticios: solo para probar la gráfica.
-parametros = {
-    "b": 0.1,
-    "k_h": 1 / 2,
-    "k_l": 1 / 5,
-    "k_p": 1 / 7,
-    "mu_h": 0.05,
-    "mu_l": 0.05,
-    "mu_p": 0.05,
-    "mu_m": 0.1,
-    "mu_f": 0.1,
-    "mu_ps": 0.03,
-    "mu_s": 1 / 7,
-    "c": 1.0,
-    "proporcion_machos": 0.5,
-    "produccion_pupas": lambda t: 1000.0,
-    "proporcion_sexado": 0.5,
-    "proporcion_emergencia": 0.8,
-    "proporcion_liberacion": 0.9,
-    "k_ps": 1/7,
-}
+parametros = PARAMETROS
 
 # Orden: H, L, P, Mw, Fw, Ps, Ms
 estado_inicial = [

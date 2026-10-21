@@ -74,10 +74,14 @@ def modelo_gbg_etapas(t, estado, parametros):
 
     # Planta: entrada de pupas al inventario de proceso.
     # La salida depende de las pupas disponibles y su tasa de desarrollo.
+
     k_ps = parametros["k_ps"]
     pupas_procesadas = k_ps * Ps
 
-    dPs_dt = produccion_pupas - (k_p + mu_ps) * Ps
+    # El inventario aumenta con la producción y disminuye
+    # por procesamiento y mortalidad/pérdidas.
+    dPs_dt = produccion_pupas - (k_ps + mu_ps) * Ps
+
 
     # Fracción estimada que emerge como machos y llega a liberación.
     machos_liberados = (

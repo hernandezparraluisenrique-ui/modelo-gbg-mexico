@@ -1,0 +1,29 @@
+INFORME DE RESULTADOS: MODELO GBG
+==========================================
+
+Filas analizadas: 724
+Escenarios analizados: 4
+Días simulados: 0 a 180
+
+HEMBRAS SILVESTRES POR ESCENARIO
+------------------------------------------
+     escenario  liberacion_diaria  hembras_dia_30  hembras_dia_90  hembras_dia_180
+Sin liberación                  0      242.841522       12.089203         0.134299
+ Baja (prueba)                100      186.407511        0.901171         0.000114
+Media (prueba)                500      150.318979        0.484798         0.000060
+ Alta (prueba)               1000      140.879122        0.422720         0.000052
+
+INTERPRETACIÓN Y LIMITACIONES
+------------------------------------------
+Los resultados corresponden a simulaciones matemáticas.
+Los parámetros utilizados son valores de prueba, no estimaciones
+biológicas verificadas para México.
+Los casos notificados en animales no equivalen directamente
+al tamaño de la población silvestre de moscas.
+Por tanto, estos resultados no permiten calcular todavía
+una cantidad nacional óptima de moscas estériles ni una fecha
+fiable de erradicación.
+
+Antes de usar el modelo para decisiones operativas se requiere
+calibrar y validar sus parámetros con datos entomológicos,
+epidemiológicos y de liberaciones reales.
