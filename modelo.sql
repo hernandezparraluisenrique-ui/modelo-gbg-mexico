@@ -16,6 +16,34 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
+-- Table structure for table `casos_mensuales`
+--
+
+DROP TABLE IF EXISTS `casos_mensuales`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `casos_mensuales` (
+  `id_registro` bigint NOT NULL AUTO_INCREMENT,
+  `id_estado` int NOT NULL,
+  `id_hospedador` int NOT NULL,
+  `periodo` date NOT NULL,
+  `valor_original` varchar(20) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `valor_numerico` int DEFAULT NULL,
+  `estado_registro` enum('numerico','guion','vacio') COLLATE utf8mb4_unicode_ci NOT NULL,
+  `fuente_url` varchar(500) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `fecha_importacion` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id_registro`),
+  UNIQUE KEY `uq_caso_mensual` (`id_estado`,`id_hospedador`,`periodo`),
+  KEY `fk_casos_hospedador` (`id_hospedador`),
+  KEY `idx_casos_periodo` (`periodo`),
+  KEY `idx_casos_estado_periodo` (`id_estado`,`periodo`),
+  CONSTRAINT `fk_casos_estado` FOREIGN KEY (`id_estado`) REFERENCES `estados` (`id_estado`),
+  CONSTRAINT `fk_casos_hospedador` FOREIGN KEY (`id_hospedador`) REFERENCES `hospedadores` (`id_hospedador`),
+  CONSTRAINT `chk_valor_no_negativo` CHECK (((`valor_numerico` is null) or (`valor_numerico` >= 0)))
+) ENGINE=InnoDB AUTO_INCREMENT=1473 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
 -- Dumping data for table `casos_mensuales`
 --
 
@@ -26,6 +54,21 @@ INSERT INTO `casos_mensuales` VALUES (1,1,1,'2024-11-01','-',NULL,'guion',NULL,'
 UNLOCK TABLES;
 
 --
+-- Table structure for table `estados`
+--
+
+DROP TABLE IF EXISTS `estados`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `estados` (
+  `id_estado` int NOT NULL AUTO_INCREMENT,
+  `nombre` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
+  PRIMARY KEY (`id_estado`),
+  UNIQUE KEY `nombre` (`nombre`)
+) ENGINE=InnoDB AUTO_INCREMENT=33 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
 -- Dumping data for table `estados`
 --
 
@@ -34,6 +77,21 @@ LOCK TABLES `estados` WRITE;
 INSERT INTO `estados` VALUES (1,'Aguascalientes'),(2,'Baja California'),(3,'Baja California Sur'),(4,'Campeche'),(5,'Chiapas'),(6,'Chihuahua'),(7,'Ciudad de México'),(8,'Coahuila'),(9,'Colima'),(10,'Durango'),(11,'Estado de México'),(12,'Guanajuato'),(13,'Guerrero'),(14,'Hidalgo'),(15,'Jalisco'),(16,'Michoacán'),(17,'Morelos'),(18,'Nayarit'),(19,'Nuevo León'),(20,'Oaxaca'),(21,'Puebla'),(22,'Querétaro'),(23,'Quintana Roo'),(24,'San Luis Potosí'),(25,'Sinaloa'),(26,'Sonora'),(27,'Tabasco'),(28,'Tamaulipas'),(29,'Tlaxcala'),(30,'Veracruz'),(31,'Yucatán'),(32,'Zacatecas');
 /*!40000 ALTER TABLE `estados` ENABLE KEYS */;
 UNLOCK TABLES;
+
+--
+-- Table structure for table `hospedadores`
+--
+
+DROP TABLE IF EXISTS `hospedadores`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `hospedadores` (
+  `id_hospedador` int NOT NULL AUTO_INCREMENT,
+  `nombre` varchar(30) COLLATE utf8mb4_unicode_ci NOT NULL,
+  PRIMARY KEY (`id_hospedador`),
+  UNIQUE KEY `nombre` (`nombre`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
 
 --
 -- Dumping data for table `hospedadores`
@@ -54,4 +112,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2026-10-22 17:50:20
+-- Dump completed on 2026-10-22 17:56:13
